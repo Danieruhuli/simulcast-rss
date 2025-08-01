@@ -3,7 +3,7 @@ name: Generate RSS
 on:
   push:
   schedule:
-    - cron: "*/15 * * * *" # Cada 15 minutos
+    - cron: "*/15000 * * * *" # Cada 15 minutos
   workflow_dispatch:
 
 jobs:
