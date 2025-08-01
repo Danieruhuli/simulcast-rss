@@ -19,7 +19,7 @@ const RSS = require("rss");
   const feed = new RSS({
     title: "Crunchyroll Simulcast",
     description: "Episodios recientes en Crunchyroll",
-    feed_url: "https://<TU-USUARIO>.github.io/crunchyroll-simulcast-rss/data/feed.xml",
+    feed_url: "https://Danieruhuli.github.io/simulcast-rss/data/feed.xml",
     site_url: "https://www.crunchyroll.com/",
     language: "es",
   });
