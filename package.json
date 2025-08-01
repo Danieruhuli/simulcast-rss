@@ -1,11 +1,11 @@
 {
-  "name": "crunchyroll-simulcast-rss",
+  "name": "simulcast-rss",
   "version": "1.0.0",
+  "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "node snapshot.js"
   },
   "dependencies": {
-    "puppeteer": "^22.0.0",
-    "rss": "^1.2.2"
+    "playwright": "^1.44.0"
   }
 }

@@ -1,0 +1,31 @@
+name: Guardar HTML renderizado de Crunchyroll
+
+on:
+  push:
+  schedule:
+    - cron: '*/30 * * * *'  # Cada 30 minutos
+  workflow_dispatch:
+
+jobs:
+  render-html:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instala dependencias
+        run: |
+          npm install playwright
+          npx playwright install --with-deps chromium
+
+      - name: Ejecuta script para renderizar HTML
+        run: node snapshot.js
+
+      - name: Sube HTML generado
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add simulcast.html
+          git commit -m "Update simulcast.html [auto]" || echo "No changes to commit"
+          git push
