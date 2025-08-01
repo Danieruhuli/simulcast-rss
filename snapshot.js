@@ -4,7 +4,10 @@ const { chromium } = require('playwright');
 (async () => {
   const browser = await chromium.launch();
   const page = await browser.newPage();
-  await page.goto('https://www.crunchyroll.com/es/simulcastcalendar?filter=premium', { waitUntil: 'networkidle' });
+  await page.goto('https://www.crunchyroll.com/es/simulcastcalendar?filter=premium', {
+  waitUntil: 'load',
+  timeout: 60000 // espera hasta 60 segundos
+});
 
   const content = await page.content();
   fs.writeFileSync('simulcast.html', content);
