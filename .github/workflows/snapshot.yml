@@ -16,7 +16,7 @@ jobs:
 
       - name: Instala dependencias
         run: |
-          npm ci
+          npm install
 
       - name: Ejecuta script para renderizar HTML
         run: node snapshot.js
