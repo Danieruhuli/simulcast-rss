@@ -3,7 +3,7 @@ name: Guardar HTML renderizado de Crunchyroll
 on:
   push:
   schedule:
-    - cron: '*/30 * * * *'  # Cada 30 minutos
+    - cron: '*/15 * * * *'  # Cada 15 minutos
   workflow_dispatch:
 
 jobs:

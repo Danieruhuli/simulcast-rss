@@ -24,12 +24,14 @@ const items = Array.from(releases).map(release => {
   const thumbnail = release.querySelector('img.thumbnail')?.src || '';
   const groupId = release.getAttribute('data-group-id') || '';
   const episodeNum = release.getAttribute('data-episode-num') || '';
+  const episodeLabel = release.querySelector('.episode-label')?.textContent.trim() || '';
+  const episodeLinkText = release.querySelector('a.available-episode-link')?.textContent.trim().replace(/\s+/g, ' ') || '';
 
   return {
-    title: `${seasonTitle} - ${episodeTitle}`,
+    title: `${seasonTitle} - Episodio ${episodeLabel} - ${episodeTitle}`,
     link,
     pubDate: new Date(pubDate).toUTCString(),
-    description: `${descriptionTime} - ${episodeTitle}`,
+    description: `Episodio ${episodeLabel} - ${episodeTitle} - ${episodeLinkText}`,
     image: thumbnail,
     guid: `${groupId}-${episodeNum}`
   };
