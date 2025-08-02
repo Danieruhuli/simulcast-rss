@@ -15,7 +15,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instala dependencias
-        run: npm install
+        run: |
+          npm ci
 
       - name: Instala Chromium para Puppeteer
         run: npx puppeteer install
