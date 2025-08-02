@@ -16,7 +16,7 @@ jobs:
 
       - name: Instala dependencias
         run: |
-          npm install
+          npm ci
 
       - name: Instala Chromium para Puppeteer
         run: npx puppeteer install
