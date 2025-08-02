@@ -5,11 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-<<<<<<< HEAD
-  <lastBuildDate>Sat, 02 Aug 2025 05:30:10 GMT</lastBuildDate>
-=======
-  <lastBuildDate>Sat, 02 Aug 2025 05:29:05 GMT</lastBuildDate>
->>>>>>> 5bd7355 (RSS Update)
+  <lastBuildDate>Sat, 02 Aug 2025 05:48:55 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Lord of Mysteries: Chibi Theatre - Episodio 4 - The Divination Club]]></title>
@@ -989,15 +985,6 @@
       <guid isPermaLink="false">GJ0H7QGEN-4</guid>
       <pubDate>Mon, 28 Jul 2025 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/81162943c794b703fbd59ac9c2acff2f.jpg" /><br/>Episodio 4 - Caramel Ribbon / We Live in Opposite Directions / It Doesn't Stink / Generic Wada - Episodio 4 Disponible]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Old Neil’s Mysticism Class - Episodio 4 - Lesson 4]]></title>
-      <link>https://www.crunchyroll.com/es/watch/G7PU3DMXG/lesson-4</link>
-      <guid isPermaLink="false">GEXH3W2EZ-4</guid>
-      <pubDate>Sat, 02 Aug 2025 03:08:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/44d375edeefc4dedd65338890c41380b.jpg" /><br/>Episodio 4 - Lesson 4 - Episodio 4 Disponible]]></description>
     </item>
   
 </channel>
