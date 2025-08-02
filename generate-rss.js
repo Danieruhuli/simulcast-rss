@@ -1,20 +1,15 @@
 const fs = require('fs');
 const { JSDOM } = require('jsdom');
 
+// Lee el HTML renderizado previamente
 const html = fs.readFileSync('simulcast.html', 'utf-8');
 const dom = new JSDOM(html);
 const document = dom.window.document;
 
-// Encuentra el contenedor del día actual
-const today = document.querySelector('li.day.active.today');
-if (!today) {
-  console.error('No se encontró el día actual en el HTML');
-  process.exit(1);
-}
+// Encuentra todos los <article.release> en cualquier día
+const releases = document.querySelectorAll('article.release');
 
-// Encuentra los elementos <article> dentro del día actual
-const releases = today.querySelectorAll('article.release');
-
+// Extrae la información de cada episodio
 const items = Array.from(releases).map(release => {
   const seasonTitle = release.querySelector('h1.season-name cite')?.textContent.trim() || '';
   const episodeTitle = release.querySelector('h1.episode-name cite')?.textContent.trim() || '';
@@ -37,7 +32,10 @@ const items = Array.from(releases).map(release => {
   };
 });
 
-// Genera el contenido RSS
+// Ordena los episodios del más reciente al más antiguo
+const sortedItems = items.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+// Genera el contenido del archivo RSS
 const rss = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
@@ -46,7 +44,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8" ?>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
   <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-  ${items.map(item => `
+  ${sortedItems.map(item => `
     <item>
       <title><![CDATA[${item.title}]]></title>
       <link>${item.link}</link>
@@ -58,7 +56,7 @@ const rss = `<?xml version="1.0" encoding="UTF-8" ?>
 </channel>
 </rss>`;
 
-// Guarda el archivo XML
+// Crea la carpeta docs si no existe y guarda el archivo XML
 fs.mkdirSync('docs', { recursive: true });
 fs.writeFileSync('docs/simulcast-rss.xml', rss);
 console.log('✅ RSS generado: simulcast-rss.xml');
