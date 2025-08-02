@@ -7,16 +7,19 @@ puppeteer.use(StealthPlugin());
 
 (async () => {
   const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox']
+   headless: 'new',
+   args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
 
   try {
   await page.goto('https://www.crunchyroll.com/es/simulcastcalendar?filter=premium', {
-  waitUntil: 'load',
-  timeout: 60000 // espera hasta 60 segundos
-  });
+  waitUntil: 'networkidle0',
+  timeout: 120000 // espera hasta 2 minutos
+});
+
+// Espera explícita a que aparezca el contenido del día
+await page.waitForSelector('li.day.active.today', { timeout: 30000 });
 
     const content = await page.content();
     fs.writeFileSync('simulcast.html', content);

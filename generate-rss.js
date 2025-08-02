@@ -41,9 +41,9 @@ const items = Array.from(releases).map(release => {
 const rss = `<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>Crunchyroll Simulcast (Hoy)</title>
+  <title>Los Últimos Videos de Crunchyroll</title>
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
-  <description>Lista RSS de estrenos hoy en Crunchyroll</description>
+  <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
   <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
   ${items.map(item => `
