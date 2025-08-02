@@ -16,7 +16,7 @@ jobs:
 
       - name: Instala dependencias
         run: |
-          npm ci
+          npm install
 
       - name: Instala Chromium para Puppeteer
         run: npx puppeteer install
@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add simulcast.html simulcast-rss.xml
+          git add simulcast.html docs/simulcast-rss.xml
           git commit -m "Update simulcast.html y RSS [auto]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GIT_AUTH_TOKEN}@github.com/${{ github.repository }}
           git push
