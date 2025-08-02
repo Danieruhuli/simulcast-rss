@@ -5,11 +5,13 @@
   "main": "snapshot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node snapshot.js"
+    "start": "node snapshot.js",
+    "generate:rss": "node generate-rss.js"
   },
   "dependencies": {
     "puppeteer": "^21.3.8",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.1"
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "jsdom": "24.0.0"
   }
 }

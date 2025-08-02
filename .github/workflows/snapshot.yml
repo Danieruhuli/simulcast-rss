@@ -21,13 +21,14 @@ jobs:
       - name: Ejecuta script para renderizar HTML
         run: node snapshot.js
 
-      - name: Sube HTML generado
+      - name: Genera RSS a partir del HTML
+        run: node generate-rss.js
+
+      - name: Sube HTML y RSS generados
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add simulcast.html
-          git commit -m "Update simulcast.html [auto]" || echo "No changes to commit"
+          git add simulcast.html simulcast-rss.xml
+          git commit -m "Update simulcast.html y RSS [auto]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GIT_AUTH_TOKEN}@github.com/${{ github.repository }}
           git push
-        env:
-          GIT_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
