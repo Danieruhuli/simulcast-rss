@@ -57,5 +57,6 @@ const rss = `<?xml version="1.0" encoding="UTF-8" ?>
 </rss>`;
 
 // Guarda el archivo XML
-fs.writeFileSync('simulcast-rss.xml', rss, 'utf-8');
+fs.mkdirSync('docs', { recursive: true });
+fs.writeFileSync('docs/simulcast-rss.xml', rss);
 console.log('✅ RSS generado: simulcast-rss.xml');
