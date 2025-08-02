@@ -16,8 +16,7 @@ jobs:
 
       - name: Instala dependencias
         run: |
-          npm install playwright
-          npx playwright install --with-deps chromium
+          npm ci
 
       - name: Ejecuta script para renderizar HTML
         run: node snapshot.js
@@ -32,4 +31,3 @@ jobs:
           git push
         env:
           GIT_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          

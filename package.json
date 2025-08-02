@@ -1,11 +1,15 @@
 {
   "name": "simulcast-rss",
   "version": "1.0.0",
+  "description": "",
+  "main": "snapshot.js",
   "type": "commonjs",
   "scripts": {
     "start": "node snapshot.js"
   },
   "dependencies": {
-    "playwright": "^1.44.0"
+    "puppeteer": "^21.3.8",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
   }
 }
