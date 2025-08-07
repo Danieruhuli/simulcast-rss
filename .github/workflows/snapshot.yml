@@ -2,9 +2,12 @@ name: Guardar HTML renderizado de Crunchyroll
 
 on:
   push:
-  schedule:
-    - cron: '*/10 * * * *'  # Cada 10 minutos
-  workflow_dispatch:
+ # Official feed Is Back https://www.crunchyroll.com/rss
+ #####################COMMENTED#########################
+ # schedule:
+ #  - cron: '*/10 * * * *'  # Cada 10 minutos
+ # workflow_dispatch:
+ #######################################################
 
 jobs:
   render-html:
