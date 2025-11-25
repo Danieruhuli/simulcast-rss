@@ -5,7 +5,7 @@ on:
  # Feed Oficial en español https://www.crunchyroll.com/rss?lang=esLA
  #####################COMMENTED#########################
   schedule:
-   - cron: '0 * * * *'   # Cada hora en el minuto 0
+   - cron: '*/20 * * * *'   # Cada 20 minutos
   workflow_dispatch:
  #######################################################
 
