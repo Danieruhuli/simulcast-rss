@@ -3,6 +3,13 @@ const { JSDOM } = require('jsdom');
 
 // Lee el HTML renderizado previamente
 const html = fs.readFileSync('simulcast.html', 'utf-8');
+
+// 🔍 Validación: si está vacío, terminar sin hacer nada
+if (!html.trim()) {
+  console.log('⚠️ simulcast.html está vacío. No se generará ningún RSS.');
+  process.exit(0); // Salida limpia, sin error
+}
+
 const dom = new JSDOM(html);
 const document = dom.window.document;
 
