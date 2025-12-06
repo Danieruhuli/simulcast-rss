@@ -5,12 +5,9 @@ on:
  # Feed Oficial en español https://www.crunchyroll.com/rss?lang=esLA
  ############################COMMENTED###########################
  #Crunchyroll actualiza series cada media hora aproximadamente  #
- #La instalación de dependencias dura alrededor de 4 minutos    #
- #Si se ejecuta en los minutos 28 y 58 de cada hora, da tiempo  #
- #de dar información actualizada con menos ejecuciones          #
  ################################################################
   schedule:
-   - cron: '28,58 * * * *'   # Cada minuto 28 y 58
+   - cron: '*/15 * * * *'   # Ejecuta cada 15 minutos
   workflow_dispatch:
  ################################################################
 
