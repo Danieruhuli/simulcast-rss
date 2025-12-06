@@ -35,7 +35,9 @@ const items = Array.from(releases).map(release => {
     pubDate: new Date(pubDate).toUTCString(),
     description: `${episodeLinkText} - ${episodeTitle}`,
     image: thumbnail,
-    guid: `${groupId}-${episodeNum}`
+    //cambiamos el id ya que el groupId ha dejado de ser en su mayoria por idioma y va más por serie
+    //guid: `${groupId}-${episodeNum}`
+    guid: link.replace('https://www.crunchyroll.com/es/watch/', '')
   };
 });
 

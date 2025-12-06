@@ -3,11 +3,16 @@ name: Guardar HTML renderizado de Crunchyroll
 on:
   push:
  # Feed Oficial en español https://www.crunchyroll.com/rss?lang=esLA
- #####################COMMENTED#########################
+ ############################COMMENTED###########################
+ #Crunchyroll actualiza series cada media hora aproximadamente  #
+ #La instalación de dependencias dura alrededor de 4 minutos    #
+ #Si se ejecuta en los minutos 28 y 58 de cada hora, da tiempo  #
+ #de dar información actualizada con menos ejecuciones          #
+ ################################################################
   schedule:
-   - cron: '*/20 * * * *'   # Cada 20 minutos
+   - cron: '28,58 * * * *'   # Cada minuto 28 y 58
   workflow_dispatch:
- #######################################################
+ ################################################################
 
 jobs:
   render-html:
@@ -19,10 +24,47 @@ jobs:
 
       - name: Instala dependencias
         run: |
-          npm ci
+            n=0
+            echo "Instalando dependencias..."   # Mensaje del primer intento
+            until [ "$n" -ge 5 ]
+            do
+              if [ "$n" -gt 0 ]; then
+                echo "Intento $((n+1)) de instalar dependencias..." # Mensaje de reintentos
+              fi
+
+              npm ci && break
+
+              n=$((n+1))
+              echo "❌ Intento $n fallido. Reintentando en 30s..."
+              sleep 30
+            done
+
+            if [ "$n" -ge 5 ]; then
+              echo "❌ npm ci falló después de 5 intentos."
+              exit 1
+            fi
 
       - name: Instala Chromium para Puppeteer
-        run: npx puppeteer install
+        run: |
+            n=0
+            echo "Instalando Chromium para Puppeteer..."   # Mensaje del primer intento
+            until [ "$n" -ge 5 ]
+            do
+              if [ "$n" -gt 0 ]; then
+                echo "Intento $((n+1)) de instalar Chromium..." # Mensaje de reintentos
+              fi
+
+              npx puppeteer install && break
+
+              n=$((n+1))
+              echo "❌ Intento $n fallido. Reintentando en 30s..."
+              sleep 30
+            done
+
+            if [ "$n" -ge 5 ]; then
+              echo "❌ Falló la instalación de Chromium después de 5 intentos."
+              exit 1
+            fi
 
       - name: Ejecuta script para renderizar HTML
         run: node snapshot.js
@@ -35,6 +77,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add simulcast.html docs/simulcast-rss.xml
-          git commit -m "Update simulcast.html y RSS [auto]" || echo "No changes to commit"
+          git commit -m "💕Update simulcast.html y RSS [auto]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GIT_AUTH_TOKEN}@github.com/${{ github.repository }}
           git push
