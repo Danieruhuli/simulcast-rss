@@ -1,4 +1,4 @@
-name: Guardar HTML renderizado de Crunchyroll
+name: Generar RSS de Crunchyroll
 
 on:
   push:
@@ -18,6 +18,15 @@ jobs:
     steps:
       - name: Clona el repositorio
         uses: actions/checkout@v4
+
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-        
+
 
       - name: Instala dependencias
         run: |
@@ -40,6 +49,13 @@ jobs:
               echo "❌ npm ci falló después de 5 intentos."
               exit 1
             fi
+
+      - name: Cache Puppeteer Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: ${{ runner.os }}-puppeteer
+
 
       - name: Instala Chromium para Puppeteer
         run: |
