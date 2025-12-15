@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Dec 2025 14:02:48 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 15 Dec 2025 14:36:39 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Isekai Quartet3 - Episodio 10 - Terror! Music Festival]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00364524JAJP/terror-music-festival</link>
+      <guid isPermaLink="false">GE00364524JAJP/terror-music-festival</guid>
+      <pubDate>Mon, 15 Dec 2025 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/746252ff89eb341fc12cc1cffb849e6d.png" /><br/>Episodio 10 Disponible - Terror! Music Festival]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[A Mangaka’s Weirdly Wonderful Workplace Season 1 - Episodio 11 - It's Important to Actually Experience It.]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00361948JAJP/its-important-to-actually-experience-it</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00365152JAJP/citizen-slime</guid>
       <pubDate>Sat, 13 Dec 2025 16:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/27843c12e3770c62662b1476d124c5a2.png" /><br/>Episodio 10 Disponible - Citizen Slime]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Touring After the Apocalypse Season 1 - Episodio 11 - Yoshimi Hundred Caves]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364689JAJP/yoshimi-hundred-caves</link>
-      <guid isPermaLink="false">GE00364689JAJP/yoshimi-hundred-caves</guid>
-      <pubDate>Sat, 13 Dec 2025 16:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/418e818f6f8b5e45b7fe323e033cf1ce.png" /><br/>Episodio 11 Disponible - Yoshimi Hundred Caves]]></description>
     </item>
   
 </channel>
