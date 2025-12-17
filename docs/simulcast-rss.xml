@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Dec 2025 19:56:42 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 17 Dec 2025 20:25:39 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Kakuriyo - Bed & Breakfast for Spirits Season 2 (English) - Episodio 10 - Tiramisu of Memories.]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362052ENUS/tiramisu-of-memories</link>
+      <guid isPermaLink="false">GE00362052ENUS/tiramisu-of-memories</guid>
+      <pubDate>Wed, 17 Dec 2025 20:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eb6a97774fb9ffc2589ebeec89ec8fff.png" /><br/>Episodio 10 Disponible - Tiramisu of Memories.]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Let's Play Season 1 (తెలుగు) - Episodio 9 - Replay]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00354972TEIN/replay</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00364558ZHCN/its-name</guid>
       <pubDate>Sun, 14 Dec 2025 03:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/2b8558c46266b69d5fa19082a8f6fe6e.png" /><br/>Episodios 1-2 Disponible - Its Name]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Digimon Beatbreak Season 1 - Episodio 11 - Episode 11]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364400JAJP/episode-11</link>
-      <guid isPermaLink="false">GE00364400JAJP/episode-11</guid>
-      <pubDate>Sun, 14 Dec 2025 03:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/47409cc6d157b481f2ec50f03ff4ac6e.png" /><br/>Episodio 11 Disponible - Episode 11]]></description>
     </item>
   
 </channel>
