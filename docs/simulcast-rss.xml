@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Dec 2025 09:22:14 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 09:44:04 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Blue Miburo Season 2 - Episodio Estreno - Wild Brawl]]></title>
+      <link>https://www.crunchyroll.com/es/watch/G14UV4D8N/wild-brawl</link>
+      <guid isPermaLink="false">G14UV4D8N/wild-brawl</guid>
+      <pubDate>Sat, 20 Dec 2025 09:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a320c131f23bf6c70e8b76500d3cf947.jpg" /><br/>Episodio 1 Disponible - Wild Brawl]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Crunchyroll Presents: The Anime Effect Season 2 - Episodio 41 - Solo Camping for Two Voice Actors Go Camping IRL?!]]></title>
       <link>https://www.crunchyroll.com/es/watch/G50UMZJJG/solo-camping-for-two-voice-actors-go-camping-irl</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00362190JAJP/the-grill-out-of-joy-and-suspense</guid>
       <pubDate>Mon, 15 Dec 2025 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/1d5a35f5b795673098213b16e240ee56.png" /><br/>Episodio 11 Disponible - The Grill-Out of Joy and Suspense]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Isekai Quartet3 - Episodio 10 - Terror! Music Festival]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364524JAJP/terror-music-festival</link>
-      <guid isPermaLink="false">GE00364524JAJP/terror-music-festival</guid>
-      <pubDate>Mon, 15 Dec 2025 14:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/746252ff89eb341fc12cc1cffb849e6d.png" /><br/>Episodio 10 Disponible - Terror! Music Festival]]></description>
     </item>
   
 </channel>
