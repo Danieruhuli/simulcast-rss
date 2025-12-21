@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sun, 21 Dec 2025 15:43:21 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 21 Dec 2025 15:54:43 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Dad is a hero, Mom is a spirit, I'm a reincarnator Season 1 - Episodio 12 - Between Humans and Spirits]]></title>
@@ -193,6 +193,15 @@
       <guid isPermaLink="false">GE00362138JAJP/goodbye-marie</guid>
       <pubDate>Sun, 21 Dec 2025 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c88287af43566d3918cea9cd4dd1e24.png" /><br/>Episodio 12 Disponible - Goodbye, Marie]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Digimon Beatbreak Season 1 - Episodio 12 - A New Family]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00364402JAJP/a-new-family</link>
+      <guid isPermaLink="false">GE00364402JAJP/a-new-family</guid>
+      <pubDate>Sun, 21 Dec 2025 03:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/42bbf119d0310a48a5b5a4fb6cf56e63.png" /><br/>Episodio 12 Disponible - A New Family]]></description>
     </item>
   
 
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00365018JAJP/battle-to-the-death-in-the-sewers</guid>
       <pubDate>Sat, 20 Dec 2025 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ff22d7609f5233c27e9a1ea54ed0166f.png" /><br/>Episodio 49 Disponible - Battle to the Death in the Sewers]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[A Wild Last Boss Appeared! Season 1 (Deutsch) - Episodio 10 - Who Are You?]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00361975DEDE/who-are-you</link>
-      <guid isPermaLink="false">GE00361975DEDE/who-are-you</guid>
-      <pubDate>Sat, 20 Dec 2025 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ad86f38a01a3af5483f1cbaf722f0872.png" /><br/>Episodio 10 Disponible - Who Are You?]]></description>
     </item>
   
 </channel>
