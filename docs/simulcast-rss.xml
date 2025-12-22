@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Mon, 22 Dec 2025 14:23:39 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 14:49:11 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Isekai Quartet3 - Episodio 11 - Melody! Music Festival]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00364526JAJP/melody-music-festival</link>
+      <guid isPermaLink="false">GE00364526JAJP/melody-music-festival</guid>
+      <pubDate>Mon, 22 Dec 2025 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/22e2181c11984302a724b186d9f31378.png" /><br/>Episodio 11 Disponible - Melody! Music Festival]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Hands off: Sawaranaide Kotesashi-kun Season 1 - Episodio 12 - Kotesashi-kun's Bust Enhancement Massage Course]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00365103JAJP/kotesashi-kuns-bust-enhancement-massage-course</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00365148ES419/guard-duty</guid>
       <pubDate>Sat, 20 Dec 2025 16:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/cac4277d4bf2273fb1c45243e396fdb3.png" /><br/>Episodio 8 Disponible - Guard Duty]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[GNOSIA Season 1 - Episodio 11 - Episode 11]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00365154JAJP/episode-11</link>
-      <guid isPermaLink="false">GE00365154JAJP/episode-11</guid>
-      <pubDate>Sat, 20 Dec 2025 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/47409cc6d157b481f2ec50f03ff4ac6e.png" /><br/>Episodio 11 Disponible - Episode 11]]></description>
     </item>
   
 </channel>
