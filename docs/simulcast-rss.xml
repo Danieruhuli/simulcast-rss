@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 27 Dec 2025 09:24:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 09:45:54 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Blue Miburo Season 2 - Episodio 2 - The Path of Humanity]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GJWUQ234V/the-path-of-humanity</link>
+      <guid isPermaLink="false">GJWUQ234V/the-path-of-humanity</guid>
+      <pubDate>Sat, 27 Dec 2025 09:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/51143b95ab96ba818c0ba3bdf57e7050.jpg" /><br/>Episodio 2 Disponible - The Path of Humanity]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Watari-kun's ****** Is about to Collapse Season 1 - Episodio 26 - One Last Thing to Make Sure Of]]></title>
       <link>https://www.crunchyroll.com/es/watch/GWDU78N0Z/one-last-thing-to-make-sure-of</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00364560ZHCN/what-to-do-if-being-stuck-in-writing</guid>
       <pubDate>Sun, 21 Dec 2025 02:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5f80563a8918b7cc1e8b1bec2e91c473.png" /><br/>Episodio 3 Disponible - What to Do If Being Stuck in Writing]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[SI-VIS: The Sound of Heroes Season 1 - Episodio 12 - The Last Remaining Despair]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364891JAJP/the-last-remaining-despair</link>
-      <guid isPermaLink="false">GE00364891JAJP/the-last-remaining-despair</guid>
-      <pubDate>Sun, 21 Dec 2025 02:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9c4588e7e129ce338d77b027fe6eb8a5.png" /><br/>Episodio 12 Disponible - The Last Remaining Despair]]></description>
     </item>
   
 </channel>
