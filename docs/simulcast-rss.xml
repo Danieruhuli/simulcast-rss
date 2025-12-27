@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 27 Dec 2025 11:57:59 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 12:39:42 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Detective Conan - Episodio 1186 - Girls Day Mystery 4]]></title>
+      <link>https://www.crunchyroll.com/es/watch/G0DUMN5E4/girls-day-mystery-4</link>
+      <guid isPermaLink="false">G0DUMN5E4/girls-day-mystery-4</guid>
+      <pubDate>Sat, 27 Dec 2025 12:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/2a0c3dca8e9b332a6926615ac702f482.jpg" /><br/>Episodio 1186 Disponible - Girls Day Mystery 4]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Blue Miburo Season 2 - Episodio 2 - The Path of Humanity]]></title>
       <link>https://www.crunchyroll.com/es/watch/GJWUQ234V/the-path-of-humanity</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00364402JAJP/episode-12</guid>
       <pubDate>Sun, 21 Dec 2025 03:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/42bbf119d0310a48a5b5a4fb6cf56e63.png" /><br/>Episodio 12 Disponible - Episode 12]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[The Daily Life of the Immortal King Season 5 (中文 (普通话)) - Episodio 3 - What to Do If Being Stuck in Writing]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364560ZHCN/what-to-do-if-being-stuck-in-writing</link>
-      <guid isPermaLink="false">GE00364560ZHCN/what-to-do-if-being-stuck-in-writing</guid>
-      <pubDate>Sun, 21 Dec 2025 02:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5f80563a8918b7cc1e8b1bec2e91c473.png" /><br/>Episodio 3 Disponible - What to Do If Being Stuck in Writing]]></description>
     </item>
   
 </channel>
