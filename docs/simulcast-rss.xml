@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Jan 2026 14:22:35 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 14:50:00 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[MF GHOST Season 3 - Episodio 25 - Miraculous Comeback]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GZ7UDVKPD/miraculous-comeback</link>
+      <guid isPermaLink="false">GZ7UDVKPD/miraculous-comeback</guid>
+      <pubDate>Thu, 01 Jan 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5f238ea705a2b0dc0c2b4b74da5d308b.jpg" /><br/>Episodio 25 Disponible - Miraculous Comeback]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Detective Conan: Episode Selection Rivals of the Great Detective - Episodio 19 - The Detectives Gathered Together! Shinichi Kudo VS Kid the Phantom Thief]]></title>
       <link>https://www.crunchyroll.com/es/watch/GJWUQ23MV/the-detectives-gathered-together-shinichi-kudo-vs-kid-the-phantom-thief</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00365150ENUS/world-of-gnosia</guid>
       <pubDate>Sat, 27 Dec 2025 16:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f55e528258cb01e16cff8d18335c9169.png" /><br/>Episodio 9 Disponible - World of Gnosia]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[GNOSIA Season 1 - Episodio 12 - Allacosia]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00365156JAJP/allacosia</link>
-      <guid isPermaLink="false">GE00365156JAJP/allacosia</guid>
-      <pubDate>Sat, 27 Dec 2025 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6fc65b008b8e04bc1bd3e6ad4f4ad538.png" /><br/>Episodio 12 Disponible - Allacosia]]></description>
     </item>
   
 </channel>
