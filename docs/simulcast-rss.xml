@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Jan 2026 14:04:35 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 14:35:59 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[MF GHOST Season 3 - Episodio 26 - Fireball]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GD9UEVK27/fireball</link>
+      <guid isPermaLink="false">GD9UEVK27/fireball</guid>
+      <pubDate>Thu, 08 Jan 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8b9e63d16548714622272a6e42edbb99.jpg" /><br/>Episodio 26 Disponible - Fireball]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Kakuriyo - Bed & Breakfast for Spirits Season 2 (English) - Episodio 11 - An Icy Assassin's Bullet.]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00362054ENUS/an-icy-assassins-bullet</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00366259JAJP/to-the-school-for-noble-children</guid>
       <pubDate>Sun, 04 Jan 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d6a9da89a8cbf624e61affd188819b5a.png" /><br/>Episodios 1-2 Disponible - To the School for Noble Children]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Hana-Kimi Season 1 - Episodio 2 - I Want to Be with You]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366173JAJP/i-want-to-be-with-you</link>
-      <guid isPermaLink="false">GE00366173JAJP/i-want-to-be-with-you</guid>
-      <pubDate>Sun, 04 Jan 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/2153399920586cd862dcc7735e02cb50.png" /><br/>Episodios 1-2 Disponible - I Want to Be with You]]></description>
     </item>
   
 </channel>
