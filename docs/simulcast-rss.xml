@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Jan 2026 11:56:02 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 12:42:05 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Detective Conan - Episodio 1188 - Follow Them! Detective Taxi 3]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GZ7UDV055/follow-them-detective-taxi-3</link>
+      <guid isPermaLink="false">GZ7UDV055/follow-them-detective-taxi-3</guid>
+      <pubDate>Sat, 10 Jan 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/3cdf218a7c5bdd7679b2d7ea94ad50ce.jpg" /><br/>Episodio 1188 Disponible - Follow Them! Detective Taxi 3]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Blue Miburo Season 2 - Episodio 3 - A Lone Sheep]]></title>
       <link>https://www.crunchyroll.com/es/watch/GN7UNDE5V/a-lone-sheep</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00367997JAJP/re-start</guid>
       <pubDate>Tue, 06 Jan 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4995cf8a680264790c5a740cd0d9cf52.png" /><br/>Episodio 1 Disponible - Re-Start]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[The Demon King's Daughter is Too Kind!! Season 1 - Episodio 2 - The Demon King's Daughter Must Shrewdly Oppress the Humans!! / The Demon King's Advisor Teaches Too Well!!]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366342JAJP/the-demon-kings-daughter-must-shrewdly-oppress-the-humans--the-demon-kings-advisor-teaches-too-well</link>
-      <guid isPermaLink="false">GE00366342JAJP/the-demon-kings-daughter-must-shrewdly-oppress-the-humans--the-demon-kings-advisor-teaches-too-well</guid>
-      <pubDate>Tue, 06 Jan 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/c1246c47d14f3d0c3f23014fde9b86ab.png" /><br/>Episodios 1-2 Disponible - The Demon King's Daughter Must Shrewdly Oppress the Humans!! / The Demon King's Advisor Teaches Too Well!!]]></description>
     </item>
   
 </channel>
