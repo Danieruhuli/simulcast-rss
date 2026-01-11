@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Jan 2026 14:23:57 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 14:47:02 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[The Villainess Is Adored by the Prince of the Neighbor Kingdom Season 1 - Episodio Estreno - A Love That Begins with the Ending]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366377JAJP/a-love-that-begins-with-the-ending</link>
+      <guid isPermaLink="false">GE00366377JAJP/a-love-that-begins-with-the-ending</guid>
+      <pubDate>Sun, 11 Jan 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/46ec035ecefd7a99a10f939b43d76058.png" /><br/>Episodio 1 Disponible - A Love That Begins with the Ending]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Kunon the Sorcerer Can See Season 1 - Episodio 3 - Graduation, and What’s Next?]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366260JAJP/graduation-and-whats-next</link>
@@ -62,15 +71,6 @@
   
 
     <item>
-      <title><![CDATA[Hana-Kimi Season 1 (தமிழ்) - Episodio 3 - I Won't Lose!]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366174TAIN/i-wont-lose</link>
-      <guid isPermaLink="false">GE00366174TAIN/i-wont-lose</guid>
-      <pubDate>Sun, 11 Jan 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4b170352df36d128ea47e943f1a71b14.png" /><br/>Episodio 3 Disponible - I Won't Lose!]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[Hana-Kimi Season 1 (हिंदी) - Episodio 3 - I Won't Lose!]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366174HIIN/i-wont-lose</link>
       <guid isPermaLink="false">GE00366174HIIN/i-wont-lose</guid>
@@ -101,6 +101,15 @@
       <title><![CDATA[Hana-Kimi Season 1 (العربية) - Episodio 3 - I Won't Lose!]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366174ARSA/i-wont-lose</link>
       <guid isPermaLink="false">GE00366174ARSA/i-wont-lose</guid>
+      <pubDate>Sun, 11 Jan 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4b170352df36d128ea47e943f1a71b14.png" /><br/>Episodio 3 Disponible - I Won't Lose!]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Hana-Kimi Season 1 (தமிழ்) - Episodio 3 - I Won't Lose!]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366174TAIN/i-wont-lose</link>
+      <guid isPermaLink="false">GE00366174TAIN/i-wont-lose</guid>
       <pubDate>Sun, 11 Jan 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4b170352df36d128ea47e943f1a71b14.png" /><br/>Episodio 3 Disponible - I Won't Lose!]]></description>
     </item>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00364940ENUS/beyond-limits</guid>
       <pubDate>Sat, 10 Jan 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7ea082187db864d9563aeda358234957.png" /><br/>Episodio 11 Disponible - Beyond Limits]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[TRIGUN STAMPEDE TRIGUN STARGAZE - Episodio 13 - Wandering Days]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GEVUWZM9M/wandering-days</link>
-      <guid isPermaLink="false">GEVUWZM9M/wandering-days</guid>
-      <pubDate>Sat, 10 Jan 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f04d669af80760fe17f3296d754f7d88.jpg" /><br/>Episodio 13 Disponible - Wandering Days]]></description>
     </item>
   
 </channel>
