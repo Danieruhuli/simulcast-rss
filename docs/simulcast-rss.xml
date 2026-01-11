@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Jan 2026 21:54:35 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 22:23:17 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Theatre of Darkness: Yamishibai 16 - Episodio Estreno - Final Episode]]></title>
@@ -148,6 +148,15 @@
       <guid isPermaLink="false">GE00198973JAJP/dawn-and-confusion</guid>
       <pubDate>Sun, 11 Jan 2026 15:15:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/c83ec09138d0afb8f2ea62a96d128786.png" /><br/>Episodio 14 Disponible - Dawn and Confusion]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Noble Reincarnation: Born Blessed, So I’ll Obtain Ultimate Power Season 1 - Episodio 2 - The Birth of the Songstress]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00367401JAJP/the-birth-of-the-songstress</link>
+      <guid isPermaLink="false">GE00367401JAJP/the-birth-of-the-songstress</guid>
+      <pubDate>Sun, 11 Jan 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8319d68f5aff116417331bba640f4f44.png" /><br/>Episodio 2 Disponible - The Birth of the Songstress]]></description>
     </item>
   
 
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00365016ENUS/extreme-level-3-situation</guid>
       <pubDate>Sat, 10 Jan 2026 20:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d6aa26b36bfc2e2b6576adec898989a3.png" /><br/>Episodio 48 Disponible - Extreme Level 3 Situation]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[SPY x FAMILY Season 3 (Español (España)) - Episodio 49 - Battle to the Death in the Sewers]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00365018ESES/battle-to-the-death-in-the-sewers</link>
-      <guid isPermaLink="false">GE00365018ESES/battle-to-the-death-in-the-sewers</guid>
-      <pubDate>Sat, 10 Jan 2026 20:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ff22d7609f5233c27e9a1ea54ed0166f.png" /><br/>Episodio 49 Disponible - Battle to the Death in the Sewers]]></description>
     </item>
   
 </channel>
