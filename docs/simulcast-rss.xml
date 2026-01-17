@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Jan 2026 09:22:44 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Jan 2026 09:45:21 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Blue Miburo Season 2 - Episodio 4 - Infamy]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GK9UG3J7M/infamy</link>
+      <guid isPermaLink="false">GK9UG3J7M/infamy</guid>
+      <pubDate>Sat, 17 Jan 2026 09:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/2e57892f7f29fb9e8fc3c92b9c0886b2.jpg" /><br/>Episodio 4 Disponible - Infamy]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Crunchyroll Presents: The Anime Effect Season 2 - Episodio 43 - Can Music Inspire Like Anime? Hemlock Springs Thinks So]]></title>
       <link>https://www.crunchyroll.com/es/watch/GG1UX277K/can-music-inspire-like-anime-hemlock-springs-thinks-so</link>
@@ -485,9 +494,9 @@
   
 
     <item>
-      <title><![CDATA[SHIBOYUGI: Playing Death Games to Put Food on the Table Season 1 (Français) - Episodio 2 - Chains of ----]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00367377FRFR/chains-of-----</link>
-      <guid isPermaLink="false">GE00367377FRFR/chains-of-----</guid>
+      <title><![CDATA[SHIBOYUGI: Playing Death Games to Put Food on the Table Season 1 (Italiano) - Episodio 2 - Chains of ----]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00367377ITIT/chains-of-----</link>
+      <guid isPermaLink="false">GE00367377ITIT/chains-of-----</guid>
       <pubDate>Wed, 14 Jan 2026 15:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/42930156ae79fe357682caf05bbbdf56.png" /><br/>Episodio 2 Disponible - Chains of ----]]></description>
     </item>
@@ -557,9 +566,9 @@
   
 
     <item>
-      <title><![CDATA[SHIBOYUGI: Playing Death Games to Put Food on the Table Season 1 (Italiano) - Episodio 2 - Chains of ----]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00367377ITIT/chains-of-----</link>
-      <guid isPermaLink="false">GE00367377ITIT/chains-of-----</guid>
+      <title><![CDATA[SHIBOYUGI: Playing Death Games to Put Food on the Table Season 1 (Français) - Episodio 2 - Chains of ----]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00367377FRFR/chains-of-----</link>
+      <guid isPermaLink="false">GE00367377FRFR/chains-of-----</guid>
       <pubDate>Wed, 14 Jan 2026 15:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/42930156ae79fe357682caf05bbbdf56.png" /><br/>Episodio 2 Disponible - Chains of ----]]></description>
     </item>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00366076JAJP/episode-2</guid>
       <pubDate>Wed, 14 Jan 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bff24ea7498a9a35600ae875899359fb.png" /><br/>Episodio 2 Disponible - Episode 2]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[An Adventurer's Daily Grind at Age 29 Season 1 - Episodio 2 - Rirui's Talent]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366101JAJP/riruis-talent</link>
-      <guid isPermaLink="false">GE00366101JAJP/riruis-talent</guid>
-      <pubDate>Wed, 14 Jan 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9817ae0f315d0de111691ab8055bfd5b.png" /><br/>Episodio 2 Disponible - Rirui's Talent]]></description>
     </item>
   
 </channel>
