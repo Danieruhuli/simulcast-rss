@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Jan 2026 19:57:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Jan 2026 20:26:12 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Isekai Quartet3 - Episodio 11 - Melody! Music Festival]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00364526ENUS/melody-music-festival</link>
+      <guid isPermaLink="false">GE00364526ENUS/melody-music-festival</guid>
+      <pubDate>Mon, 19 Jan 2026 20:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/22e2181c11984302a724b186d9f31378.png" /><br/>Episodio 11 Disponible - Melody! Music Festival]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA['Tis Time for "Torture," Princess - Episodio 14 - Episode 14]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00327904JAJP/episode-14</link>
@@ -62,18 +71,18 @@
   
 
     <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Português (Brasil)) - Episodio 3 - Public and Private]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366273PTBR/public-and-private</link>
-      <guid isPermaLink="false">GE00366273PTBR/public-and-private</guid>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Français) - Episodio 3 - Public and Private]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366273FRFR/public-and-private</link>
+      <guid isPermaLink="false">GE00366273FRFR/public-and-private</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57880bc4ee9c2886efc29080f97edc27.png" /><br/>Episodio 3 Disponible - Public and Private]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Français) - Episodio 3 - Public and Private]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366273FRFR/public-and-private</link>
-      <guid isPermaLink="false">GE00366273FRFR/public-and-private</guid>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Português (Brasil)) - Episodio 3 - Public and Private]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366273PTBR/public-and-private</link>
+      <guid isPermaLink="false">GE00366273PTBR/public-and-private</guid>
       <pubDate>Mon, 19 Jan 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57880bc4ee9c2886efc29080f97edc27.png" /><br/>Episodio 3 Disponible - Public and Private]]></description>
     </item>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GG1UX20JK/my-hero-academia</guid>
       <pubDate>Sat, 17 Jan 2026 20:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4bfd0486ace5859c8340b6939083b592.jpg" /><br/>Episodio 170 Disponible - My Hero Academia]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Scum of the Brave Season 1 - Episodio 2 - A Brave's Magic.]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00367924JAJP/a-braves-magic</link>
-      <guid isPermaLink="false">GE00367924JAJP/a-braves-magic</guid>
-      <pubDate>Sat, 17 Jan 2026 17:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f0ad9b1919fd96a86159b12a974c1b0b.png" /><br/>Episodio 2 Disponible - A Brave's Magic.]]></description>
     </item>
   
 </channel>
