@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Jan 2026 17:31:12 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 17:58:14 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[The Casebook of Arne Season 1 - Episodio 3 - Misfortune Never Visits Alone]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00367961JAJP/misfortune-never-visits-alone</link>
+      <guid isPermaLink="false">GE00367961JAJP/misfortune-never-visits-alone</guid>
+      <pubDate>Tue, 20 Jan 2026 17:55:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f5767ae5b32b8e3a4821113937826565.png" /><br/>Episodio 3 Disponible - Misfortune Never Visits Alone]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her Season 1 - Episodio 3 - I Tried Giving Love Advice]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366391JAJP/i-tried-giving-love-advice</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GJWUQ2P2Z/episode-13</guid>
       <pubDate>Sat, 17 Jan 2026 21:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/74d40668d432fc0789424cf5c36aca7a.png" /><br/>Episodios 12-13 Disponible - Episode 13]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Tales of Wedding Rings Season 2 (English) - Episodio 12 - Episode 12]]></title>
-      <link>https://www.crunchyroll.com/es/watch/G50UMZ8M3/episode-12</link>
-      <guid isPermaLink="false">G50UMZ8M3/episode-12</guid>
-      <pubDate>Sat, 17 Jan 2026 21:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8d2784cb4752abc950888ec295496591.png" /><br/>Episodio 12 Disponible - Episode 12]]></description>
     </item>
   
 </channel>
