@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Jan 2026 12:46:48 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 13:37:54 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Wash It All Away Season 1 - Episodio 4 - A Personal Request from Kinme]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366405JAJP/a-personal-request-from-kinme</link>
+      <guid isPermaLink="false">GE00366405JAJP/a-personal-request-from-kinme</guid>
+      <pubDate>Mon, 26 Jan 2026 13:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b64875dcf67fbdd3c404c37f2bfaca1b.png" /><br/>Episodio 4 Disponible - A Personal Request from Kinme]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Theatre of Darkness: Yamishibai 16 - Episodio 3 - A Peaceful Village]]></title>
       <link>https://www.crunchyroll.com/es/watch/GQJUMGJVE/a-peaceful-village</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00367594JAJP/cyberkinesis-output-test</guid>
       <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6b010f5e106641a6a986c49f1a05579f.png" /><br/>Episodio 3 Disponible - Cyberkinesis Output Test]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[TRIGUN STAMPEDE TRIGUN STARGAZE - Episodio 15 - Memento Mori]]></title>
-      <link>https://www.crunchyroll.com/es/watch/G9DU9EJ83/memento-mori</link>
-      <guid isPermaLink="false">G9DU9EJ83/memento-mori</guid>
-      <pubDate>Sat, 24 Jan 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bac3e28e13c42684b46f2b576ac4f8a1.jpg" /><br/>Episodio 15 Disponible - Memento Mori]]></description>
     </item>
   
 </channel>
