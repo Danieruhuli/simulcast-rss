@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 07 Feb 2026 19:43:34 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 19:59:09 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Scum of the Brave Season 1 - Episodio 5 - A Brave Sensei]]></title>
@@ -22,6 +22,15 @@
       <guid isPermaLink="false">GE00364973PTBR/i-want-to-learn-more-about-humans</guid>
       <pubDate>Sat, 07 Feb 2026 17:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bb719553e718b94061552b912f44c511.png" /><br/>Episodio 14 Disponible - I Want to Learn More About Humans]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Tojima Wants to Be a Kamen Rider Season 1 (हिंदी) - Episodio 15 - The Masked Idol, Heavy Chop]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00364975HIIN/the-masked-idol-heavy-chop</link>
+      <guid isPermaLink="false">GE00364975HIIN/the-masked-idol-heavy-chop</guid>
+      <pubDate>Sat, 07 Feb 2026 17:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/de63c310f623324e6ed6d0d8ba09f92e.png" /><br/>Episodio 15 Disponible - The Masked Idol, Heavy Chop]]></description>
     </item>
   
 
@@ -47,15 +56,6 @@
       <title><![CDATA[Tojima Wants to Be a Kamen Rider Season 1 (தமிழ்) - Episodio 15 - The Masked Idol, Heavy Chop]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00364975TAIN/the-masked-idol-heavy-chop</link>
       <guid isPermaLink="false">GE00364975TAIN/the-masked-idol-heavy-chop</guid>
-      <pubDate>Sat, 07 Feb 2026 17:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/de63c310f623324e6ed6d0d8ba09f92e.png" /><br/>Episodio 15 Disponible - The Masked Idol, Heavy Chop]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Tojima Wants to Be a Kamen Rider Season 1 (हिंदी) - Episodio 15 - The Masked Idol, Heavy Chop]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364975HIIN/the-masked-idol-heavy-chop</link>
-      <guid isPermaLink="false">GE00364975HIIN/the-masked-idol-heavy-chop</guid>
       <pubDate>Sat, 07 Feb 2026 17:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/de63c310f623324e6ed6d0d8ba09f92e.png" /><br/>Episodio 15 Disponible - The Masked Idol, Heavy Chop]]></description>
     </item>
@@ -351,26 +351,8 @@
 
     <item>
       <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00014804HIIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
-      <guid isPermaLink="false">GE00014804HIIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
-      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00014804TAIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
-      <guid isPermaLink="false">GE00014804TAIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
-      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00014804ES419/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
-      <guid isPermaLink="false">GE00014804ES419/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00014804PTBR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
+      <guid isPermaLink="false">GE00014804PTBR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
       <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
     </item>
@@ -387,8 +369,8 @@
 
     <item>
       <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00014804PTBR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
-      <guid isPermaLink="false">GE00014804PTBR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00014804FRFR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
+      <guid isPermaLink="false">GE00014804FRFR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
       <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
     </item>
@@ -396,8 +378,26 @@
 
     <item>
       <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00014804FRFR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
-      <guid isPermaLink="false">GE00014804FRFR/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00014804ES419/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
+      <guid isPermaLink="false">GE00014804ES419/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
+      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00014804HIIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
+      <guid isPermaLink="false">GE00014804HIIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
+      <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Yuri!!! on ICE - Episodio 12 - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00014804TAIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</link>
+      <guid isPermaLink="false">GE00014804TAIN/gotta-super-super-supercharge-it-grand-prix-final-free-skate</guid>
       <pubDate>Fri, 06 Feb 2026 17:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d0577008849693d0ce76a66668ef1dd.png" /><br/>Episodios 1-12 Disponible - Gotta Super-Super-Supercharge It!!! Grand Prix Final Free Skate]]></description>
     </item>
@@ -458,27 +458,36 @@
   
 
     <item>
-      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (English) - Episodio 5 - Episode 05]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366130ENUS/episode-05</link>
-      <guid isPermaLink="false">GE00366130ENUS/episode-05</guid>
-      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (தமிழ்) - Episodio 5 - Episode 05]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366130TAIN/episode-05</link>
-      <guid isPermaLink="false">GE00366130TAIN/episode-05</guid>
-      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 - Episodio 5 - Episode 05]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366130JAJP/episode-05</link>
       <guid isPermaLink="false">GE00366130JAJP/episode-05</guid>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (हिंदी) - Episodio 5 - Episode 05]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366130HIIN/episode-05</link>
+      <guid isPermaLink="false">GE00366130HIIN/episode-05</guid>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (Français) - Episodio 5 - Episode 05]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366130FRFR/episode-05</link>
+      <guid isPermaLink="false">GE00366130FRFR/episode-05</guid>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (English) - Episodio 5 - Episode 05]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366130ENUS/episode-05</link>
+      <guid isPermaLink="false">GE00366130ENUS/episode-05</guid>
       <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
     </item>
@@ -503,6 +512,15 @@
   
 
     <item>
+      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (தமிழ்) - Episodio 5 - Episode 05]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366130TAIN/episode-05</link>
+      <guid isPermaLink="false">GE00366130TAIN/episode-05</guid>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (Español (América Latina)) - Episodio 5 - Episode 05]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366130ES419/episode-05</link>
       <guid isPermaLink="false">GE00366130ES419/episode-05</guid>
@@ -512,27 +530,9 @@
   
 
     <item>
-      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (हिंदी) - Episodio 5 - Episode 05]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366130HIIN/episode-05</link>
-      <guid isPermaLink="false">GE00366130HIIN/episode-05</guid>
-      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (Deutsch) - Episodio 5 - Episode 05]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366130DEDE/episode-05</link>
       <guid isPermaLink="false">GE00366130DEDE/episode-05</guid>
-      <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[DARK MOON: THE BLOOD ALTAR Season 1 (Français) - Episodio 5 - Episode 05]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366130FRFR/episode-05</link>
-      <guid isPermaLink="false">GE00366130FRFR/episode-05</guid>
       <pubDate>Fri, 06 Feb 2026 16:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/6a6845172e0fcb86be94282b5e983f77.png" /><br/>Episodio 5 Disponible - Episode 05]]></description>
     </item>
