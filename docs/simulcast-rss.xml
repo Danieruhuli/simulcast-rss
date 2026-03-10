@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Mar 2026 15:38:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 16:45:48 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Fire Force Season 3 (ไทย) - Episodio 16 - Savior]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00348043THTH/savior</link>
+      <guid isPermaLink="false">GE00348043THTH/savior</guid>
+      <pubDate>Tue, 10 Mar 2026 16:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f96314b0917e9dbf539a8dab49a93168.png" /><br/>Episodios 13-16 Disponible - Savior]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Chitose Is in the Ramune Bottle - Episodio 10 - A Distant Moon]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00364803THTH/a-distant-moon</link>
@@ -44,15 +53,6 @@
   
 
     <item>
-      <title><![CDATA[There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her Season 1 (हिंदी) - Episodio 7 - I Tried Receiving Chocolates]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366395HIIN/i-tried-receiving-chocolates</link>
-      <guid isPermaLink="false">GE00366395HIIN/i-tried-receiving-chocolates</guid>
-      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d53f01c1647a388866ac605c4dc503b.png" /><br/>Episodio 7 Disponible - I Tried Receiving Chocolates]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her Season 1 (తెలుగు) - Episodio 7 - I Tried Receiving Chocolates]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366395TEIN/i-tried-receiving-chocolates</link>
       <guid isPermaLink="false">GE00366395TEIN/i-tried-receiving-chocolates</guid>
@@ -65,6 +65,15 @@
       <title><![CDATA[There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her Season 1 (தமிழ்) - Episodio 7 - I Tried Receiving Chocolates]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366395TAIN/i-tried-receiving-chocolates</link>
       <guid isPermaLink="false">GE00366395TAIN/i-tried-receiving-chocolates</guid>
+      <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d53f01c1647a388866ac605c4dc503b.png" /><br/>Episodio 7 Disponible - I Tried Receiving Chocolates]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her Season 1 (हिंदी) - Episodio 7 - I Tried Receiving Chocolates]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366395HIIN/i-tried-receiving-chocolates</link>
+      <guid isPermaLink="false">GE00366395HIIN/i-tried-receiving-chocolates</guid>
       <pubDate>Tue, 10 Mar 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/4d53f01c1647a388866ac605c4dc503b.png" /><br/>Episodio 7 Disponible - I Tried Receiving Chocolates]]></description>
     </item>
@@ -179,18 +188,18 @@
   
 
     <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Français) - Episodio 10 - Zero Hour]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366280FRFR/zero-hour</link>
-      <guid isPermaLink="false">GE00366280FRFR/zero-hour</guid>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Español (América Latina)) - Episodio 10 - Zero Hour]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366280ES419/zero-hour</link>
+      <guid isPermaLink="false">GE00366280ES419/zero-hour</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 - Episodio 10 - Zero Hour]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366280JAJP/zero-hour</link>
-      <guid isPermaLink="false">GE00366280JAJP/zero-hour</guid>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Français) - Episodio 10 - Zero Hour]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366280FRFR/zero-hour</link>
+      <guid isPermaLink="false">GE00366280FRFR/zero-hour</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
     </item>
@@ -206,27 +215,9 @@
   
 
     <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Español (América Latina)) - Episodio 10 - Zero Hour]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366280ES419/zero-hour</link>
-      <guid isPermaLink="false">GE00366280ES419/zero-hour</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Deutsch) - Episodio 10 - Zero Hour]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366280DEDE/zero-hour</link>
       <guid isPermaLink="false">GE00366280DEDE/zero-hour</guid>
-      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Español (España)) - Episodio 10 - Zero Hour]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00366280ESES/zero-hour</link>
-      <guid isPermaLink="false">GE00366280ESES/zero-hour</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
     </item>
@@ -245,6 +236,24 @@
       <title><![CDATA[My Hero Academia: Vigilantes Season 2 (English) - Episodio 10 - Zero Hour]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00366280ENUS/zero-hour</link>
       <guid isPermaLink="false">GE00366280ENUS/zero-hour</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 (Español (España)) - Episodio 10 - Zero Hour]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366280ESES/zero-hour</link>
+      <guid isPermaLink="false">GE00366280ESES/zero-hour</guid>
+      <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[My Hero Academia: Vigilantes Season 2 - Episodio 10 - Zero Hour]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00366280JAJP/zero-hour</link>
+      <guid isPermaLink="false">GE00366280JAJP/zero-hour</guid>
       <pubDate>Mon, 09 Mar 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b5995b2e9670496e83106927b57f93b8.png" /><br/>Episodio 10 Disponible - Zero Hour]]></description>
     </item>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00366254JAJP/people-who-can-see-them-arent-scarychie-sensei-isnt-scary</guid>
       <pubDate>Sun, 08 Mar 2026 09:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bbf568754d218fb38f93bfc5ffdb6516.png" /><br/>Episodio 9 Disponible - People Who Can See Them Aren't Scary?/Chie-sensei Isn't Scary]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[In the Clear Moonlit Dusk Season 1 - Episodio 9 - A Goodnight Hug]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00334066JAJP/a-goodnight-hug</link>
-      <guid isPermaLink="false">GE00334066JAJP/a-goodnight-hug</guid>
-      <pubDate>Sun, 08 Mar 2026 08:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/08132fa871e607a9278dcb5a7849dcbc.png" /><br/>Episodio 9 Disponible - A Goodnight Hug]]></description>
     </item>
   
 </channel>
