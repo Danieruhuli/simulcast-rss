@@ -5,30 +5,12 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 11:07:35 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 12:13:34 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Welcome to Demon School! Iruma-kun Season 4 (Español (América Latina)) - Episodio 7 - Lilith's Carpet]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374407ES419/liliths-carpet</link>
       <guid isPermaLink="false">GE00374407ES419/liliths-carpet</guid>
-      <pubDate>Sat, 16 May 2026 10:25:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eaf0d3ef607fc71fba85ee21129e08b8.png" /><br/>Episodio 7 Disponible - Lilith's Carpet]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Welcome to Demon School! Iruma-kun Season 4 (Português (Brasil)) - Episodio 7 - Lilith's Carpet]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374407PTBR/liliths-carpet</link>
-      <guid isPermaLink="false">GE00374407PTBR/liliths-carpet</guid>
-      <pubDate>Sat, 16 May 2026 10:25:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eaf0d3ef607fc71fba85ee21129e08b8.png" /><br/>Episodio 7 Disponible - Lilith's Carpet]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Welcome to Demon School! Iruma-kun Season 4 (Deutsch) - Episodio 7 - Lilith's Carpet]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374407DEDE/liliths-carpet</link>
-      <guid isPermaLink="false">GE00374407DEDE/liliths-carpet</guid>
       <pubDate>Sat, 16 May 2026 10:25:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eaf0d3ef607fc71fba85ee21129e08b8.png" /><br/>Episodio 7 Disponible - Lilith's Carpet]]></description>
     </item>
@@ -53,6 +35,24 @@
   
 
     <item>
+      <title><![CDATA[Welcome to Demon School! Iruma-kun Season 4 (Deutsch) - Episodio 7 - Lilith's Carpet]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374407DEDE/liliths-carpet</link>
+      <guid isPermaLink="false">GE00374407DEDE/liliths-carpet</guid>
+      <pubDate>Sat, 16 May 2026 10:25:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eaf0d3ef607fc71fba85ee21129e08b8.png" /><br/>Episodio 7 Disponible - Lilith's Carpet]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Welcome to Demon School! Iruma-kun Season 4 (Português (Brasil)) - Episodio 7 - Lilith's Carpet]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374407PTBR/liliths-carpet</link>
+      <guid isPermaLink="false">GE00374407PTBR/liliths-carpet</guid>
+      <pubDate>Sat, 16 May 2026 10:25:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/eaf0d3ef607fc71fba85ee21129e08b8.png" /><br/>Episodio 7 Disponible - Lilith's Carpet]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[Ascendance of a Bookworm Season 4 (Deutsch) - Episodio 4 - How to Collect Donations]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00375181DEDE/how-to-collect-donations</link>
       <guid isPermaLink="false">GE00375181DEDE/how-to-collect-donations</guid>
@@ -71,15 +71,6 @@
   
 
     <item>
-      <title><![CDATA[RILAKKUMA Season 1 - Episodio 7 - Episode 7]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375534JAJP/episode-7</link>
-      <guid isPermaLink="false">GE00375534JAJP/episode-7</guid>
-      <pubDate>Sat, 16 May 2026 01:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f058f9ffc22c155644e1fc66084591d1.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[RILAKKUMA Season 1 (Español (América Latina)) - Episodio 7 - Episode 7]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00375534ES419/episode-7</link>
       <guid isPermaLink="false">GE00375534ES419/episode-7</guid>
@@ -89,18 +80,27 @@
   
 
     <item>
-      <title><![CDATA[RILAKKUMA Season 1 (Português (Brasil)) - Episodio 7 - Episode 7]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375534PTBR/episode-7</link>
-      <guid isPermaLink="false">GE00375534PTBR/episode-7</guid>
+      <title><![CDATA[RILAKKUMA Season 1 (English) - Episodio 7 - Episode 7]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375534ENUS/episode-7</link>
+      <guid isPermaLink="false">GE00375534ENUS/episode-7</guid>
       <pubDate>Sat, 16 May 2026 01:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f058f9ffc22c155644e1fc66084591d1.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[RILAKKUMA Season 1 (English) - Episodio 7 - Episode 7]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375534ENUS/episode-7</link>
-      <guid isPermaLink="false">GE00375534ENUS/episode-7</guid>
+      <title><![CDATA[RILAKKUMA Season 1 - Episodio 7 - Episode 7]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375534JAJP/episode-7</link>
+      <guid isPermaLink="false">GE00375534JAJP/episode-7</guid>
+      <pubDate>Sat, 16 May 2026 01:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f058f9ffc22c155644e1fc66084591d1.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[RILAKKUMA Season 1 (Português (Brasil)) - Episodio 7 - Episode 7]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375534PTBR/episode-7</link>
+      <guid isPermaLink="false">GE00375534PTBR/episode-7</guid>
       <pubDate>Sat, 16 May 2026 01:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f058f9ffc22c155644e1fc66084591d1.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
     </item>
@@ -161,15 +161,6 @@
   
 
     <item>
-      <title><![CDATA[SNOWBALL EARTH Season 1 (English) - Episodio 7 - Episode 7]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375397ENUS/episode-7</link>
-      <guid isPermaLink="false">GE00375397ENUS/episode-7</guid>
-      <pubDate>Fri, 15 May 2026 15:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ab54d0b99ee1d77d214388f1068097cf.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[SNOWBALL EARTH Season 1 - Episodio 7 - Episode 7]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00375397JAJP/episode-7</link>
       <guid isPermaLink="false">GE00375397JAJP/episode-7</guid>
@@ -179,9 +170,9 @@
   
 
     <item>
-      <title><![CDATA[SNOWBALL EARTH Season 1 (Español (América Latina)) - Episodio 7 - Episode 7]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375397ES419/episode-7</link>
-      <guid isPermaLink="false">GE00375397ES419/episode-7</guid>
+      <title><![CDATA[SNOWBALL EARTH Season 1 (English) - Episodio 7 - Episode 7]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375397ENUS/episode-7</link>
+      <guid isPermaLink="false">GE00375397ENUS/episode-7</guid>
       <pubDate>Fri, 15 May 2026 15:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ab54d0b99ee1d77d214388f1068097cf.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
     </item>
@@ -197,11 +188,11 @@
   
 
     <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Deutsch) - Episodio 4 - Invitation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374368DEDE/invitation</link>
-      <guid isPermaLink="false">GE00374368DEDE/invitation</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
+      <title><![CDATA[SNOWBALL EARTH Season 1 (Español (América Latina)) - Episodio 7 - Episode 7]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375397ES419/episode-7</link>
+      <guid isPermaLink="false">GE00375397ES419/episode-7</guid>
+      <pubDate>Fri, 15 May 2026 15:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ab54d0b99ee1d77d214388f1068097cf.png" /><br/>Episodio 7 Disponible - Episode 7]]></description>
     </item>
   
 
@@ -215,27 +206,9 @@
   
 
     <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Français) - Episodio 4 - Invitation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374368FRFR/invitation</link>
-      <guid isPermaLink="false">GE00374368FRFR/invitation</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Español (América Latina)) - Episodio 4 - Invitation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374368ES419/invitation</link>
-      <guid isPermaLink="false">GE00374368ES419/invitation</guid>
-      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Português (Brasil)) - Episodio 4 - Invitation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374368PTBR/invitation</link>
-      <guid isPermaLink="false">GE00374368PTBR/invitation</guid>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Deutsch) - Episodio 4 - Invitation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374368DEDE/invitation</link>
+      <guid isPermaLink="false">GE00374368DEDE/invitation</guid>
       <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
     </item>
@@ -251,9 +224,36 @@
   
 
     <item>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Português (Brasil)) - Episodio 4 - Invitation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374368PTBR/invitation</link>
+      <guid isPermaLink="false">GE00374368PTBR/invitation</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Español (América Latina)) - Episodio 4 - Invitation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374368ES419/invitation</link>
+      <guid isPermaLink="false">GE00374368ES419/invitation</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Español (España)) - Episodio 4 - Invitation]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374368ESES/invitation</link>
       <guid isPermaLink="false">GE00374368ESES/invitation</guid>
+      <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Français) - Episodio 4 - Invitation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374368FRFR/invitation</link>
+      <guid isPermaLink="false">GE00374368FRFR/invitation</guid>
       <pubDate>Fri, 15 May 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/82b90a59dc1af2c76571ade734739d54.png" /><br/>Episodio 4 Disponible - Invitation]]></description>
     </item>
@@ -432,8 +432,8 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959ENUS/unknown-known</link>
-      <guid isPermaLink="false">GE00346959ENUS/unknown-known</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959ITIT/unknown-known</link>
+      <guid isPermaLink="false">GE00346959ITIT/unknown-known</guid>
       <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
     </item>
@@ -441,8 +441,8 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959FRFR/unknown-known</link>
-      <guid isPermaLink="false">GE00346959FRFR/unknown-known</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959ENUS/unknown-known</link>
+      <guid isPermaLink="false">GE00346959ENUS/unknown-known</guid>
       <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
     </item>
@@ -459,17 +459,8 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959PTBR/unknown-known</link>
-      <guid isPermaLink="false">GE00346959PTBR/unknown-known</guid>
-      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959ES419/unknown-known</link>
-      <guid isPermaLink="false">GE00346959ES419/unknown-known</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959ESES/unknown-known</link>
+      <guid isPermaLink="false">GE00346959ESES/unknown-known</guid>
       <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
     </item>
@@ -486,26 +477,35 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959ITIT/unknown-known</link>
-      <guid isPermaLink="false">GE00346959ITIT/unknown-known</guid>
-      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346959ESES/unknown-known</link>
-      <guid isPermaLink="false">GE00346959ESES/unknown-known</guid>
-      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00346959DEDE/unknown-known</link>
       <guid isPermaLink="false">GE00346959DEDE/unknown-known</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959FRFR/unknown-known</link>
+      <guid isPermaLink="false">GE00346959FRFR/unknown-known</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959ES419/unknown-known</link>
+      <guid isPermaLink="false">GE00346959ES419/unknown-known</guid>
+      <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 31 - Unknown Known]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00346959PTBR/unknown-known</link>
+      <guid isPermaLink="false">GE00346959PTBR/unknown-known</guid>
       <pubDate>Thu, 14 May 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e406bf0965ec6fc17e88e3ad7f075b42.png" /><br/>Episodio 31 Disponible - Unknown Known]]></description>
     </item>
@@ -539,27 +539,18 @@
   
 
     <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (தமிழ்) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362259TAIN/to-be-a-warrior-is-to-be-a-hypocrite</link>
-      <guid isPermaLink="false">GE00362259TAIN/to-be-a-warrior-is-to-be-a-hypocrite</guid>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (Bahasa Indonesia) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362259IDID/to-be-a-warrior-is-to-be-a-hypocrite</link>
+      <guid isPermaLink="false">GE00362259IDID/to-be-a-warrior-is-to-be-a-hypocrite</guid>
       <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (Deutsch) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362259DEDE/to-be-a-warrior-is-to-be-a-hypocrite</link>
-      <guid isPermaLink="false">GE00362259DEDE/to-be-a-warrior-is-to-be-a-hypocrite</guid>
-      <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (ไทย) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362259THTH/to-be-a-warrior-is-to-be-a-hypocrite</link>
-      <guid isPermaLink="false">GE00362259THTH/to-be-a-warrior-is-to-be-a-hypocrite</guid>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (العربية) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362259ARSA/to-be-a-warrior-is-to-be-a-hypocrite</link>
+      <guid isPermaLink="false">GE00362259ARSA/to-be-a-warrior-is-to-be-a-hypocrite</guid>
       <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
     </item>
@@ -575,18 +566,27 @@
   
 
     <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (Bahasa Indonesia) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362259IDID/to-be-a-warrior-is-to-be-a-hypocrite</link>
-      <guid isPermaLink="false">GE00362259IDID/to-be-a-warrior-is-to-be-a-hypocrite</guid>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (தமிழ்) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362259TAIN/to-be-a-warrior-is-to-be-a-hypocrite</link>
+      <guid isPermaLink="false">GE00362259TAIN/to-be-a-warrior-is-to-be-a-hypocrite</guid>
       <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (العربية) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362259ARSA/to-be-a-warrior-is-to-be-a-hypocrite</link>
-      <guid isPermaLink="false">GE00362259ARSA/to-be-a-warrior-is-to-be-a-hypocrite</guid>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (ไทย) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362259THTH/to-be-a-warrior-is-to-be-a-hypocrite</link>
+      <guid isPermaLink="false">GE00362259THTH/to-be-a-warrior-is-to-be-a-hypocrite</guid>
+      <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (Deutsch) - Episodio 3 - To Be a Warrior is To Be a Hypocrite]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362259DEDE/to-be-a-warrior-is-to-be-a-hypocrite</link>
+      <guid isPermaLink="false">GE00362259DEDE/to-be-a-warrior-is-to-be-a-hypocrite</guid>
       <pubDate>Thu, 14 May 2026 12:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a43070ae1bfae47027101ae3044c2183.png" /><br/>Episodio 3 Disponible - To Be a Warrior is To Be a Hypocrite]]></description>
     </item>
