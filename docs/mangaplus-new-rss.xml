@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>MangaPlus - Nuevos Estrenos</title>
+  <link>https://mangaplus.shueisha.co.jp/</link>
+  <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
+  <language>es</language>
+  <lastBuildDate>Fri, 29 May 2026 02:40:18 GMT</lastBuildDate>
+  
+    <item>
+      <title><![CDATA[World Wide Web MIKO! - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100756</link>
+      <guid isPermaLink="false"><![CDATA[World Wide Web MIKO! - #001]]></guid>
+      <pubDate>Fri, 29 May 2026 02:40:17 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100756/title_thumbnail_main/486395.jpg?hash=ge3TbTdxxkpP6yVDyyEfug&expires=2145884400" /><br/>[#001] Read the Manga World Wide Web MIKO! by Kogattuo / Ichika Kino for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Dream Partner - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100761</link>
+      <guid isPermaLink="false"><![CDATA[Dream Partner - One-shot]]></guid>
+      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100761/title_thumbnail_portrait_list/603224.jpg?hash=OM4muCVi6JLjoS2IyEZeKw&expires=2145884400" /><br/>[One-shot] Read the Manga Dream Partner by KAZUKI NONAKA for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Thinking Zombie - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100760</link>
+      <guid isPermaLink="false"><![CDATA[Thinking Zombie - One-shot]]></guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100760/title_thumbnail_portrait_list/603104.jpg?hash=qDoIG7G3Z73eWwETitlXwA&expires=2145884400" /><br/>[One-shot] Read the Manga Thinking Zombie by RIYA KITANO for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Face - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100755</link>
+      <guid isPermaLink="false"><![CDATA[Face - One-shot]]></guid>
+      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100755/title_thumbnail_portrait_list/603092.jpg?hash=qOESV_AqoF-rOvPdh0xENg&expires=2145884400" /><br/>[One-shot] Read the Manga Face by MINORU YATSUKADO for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[SATANICA - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100752</link>
+      <guid isPermaLink="false"><![CDATA[SATANICA - #004]]></guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100752/title_thumbnail_portrait_list/484571.jpg?hash=eIMsQVslsQc9AsXnj6GVEg&expires=2145884400" /><br/>[#004] Read the Manga SATANICA by Kuroha for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Cleaning Robot J-ko's Day Off - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100754</link>
+      <guid isPermaLink="false"><![CDATA[Cleaning Robot J-ko's Day Off - One-shot]]></guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100754/title_thumbnail_portrait_list/603080.jpg?hash=6GbFY3zlGsgEDG9Nkkb6pw&expires=2145884400" /><br/>[One-shot] Read the Manga Cleaning Robot J-ko's Day Off by NOZUMO for free!]]></description>
+    </item>
+</channel>
+</rss>

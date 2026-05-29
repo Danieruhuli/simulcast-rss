@@ -6,7 +6,8 @@
   "type": "commonjs",
   "scripts": {
     "start": "node snapshot.js",
-    "generate:rss": "node generate-rss.js"
+    "generate:rss": "node generate-rss.js",
+    "mangaplus:rss": "node generate-mangaplus-rss.js"
   },
   "dependencies": {
     "jsdom": "24.0.0",

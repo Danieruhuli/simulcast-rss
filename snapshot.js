@@ -2,50 +2,58 @@ const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const fs = require('fs');
 
-// Activar plugin de evasión
+// Activar evasión
 puppeteer.use(StealthPlugin());
+
+const targets = [
+  {
+    url: 'https://www.crunchyroll.com/es/simulcastcalendar?filter=premium',
+    output: 'simulcast.html',
+  },
+    {
+    url: 'https://mangaplus.shueisha.co.jp/updates',
+    output: 'simulpub-mangaplus.html',
+  },
+  
+];
 
 (async () => {
   const browser = await puppeteer.launch({
     headless: 'new',
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
 
-  //Intentará 3 veces
-  const MAX_INTENTOS = 3;
-  let exito = false;
+  let failedCount = 0;
 
-  for (let intento = 1; intento <= MAX_INTENTOS; intento++) {
+  for (const target of targets) {
     const page = await browser.newPage();
-    console.log(`🔄 Intento ${intento} de ${MAX_INTENTOS}...`);
 
     try {
-      await page.goto('https://www.crunchyroll.com/es/simulcastcalendar?filter=premium', {
+      console.log(`⏳ Cargando ${target.url}...`);
+      await page.goto(target.url, {
         waitUntil: 'networkidle0',
-        timeout: 180000 //Espera 3 minutos a que cargue
+        timeout: 120000,
       });
 
-      await page.waitForSelector('li.day.active.today', { timeout: 120000 });
-
       const content = await page.content();
-      fs.writeFileSync('simulcast.html', content);
-      console.log('✅ HTML guardado como simulcast.html');
-      exito = true;
-      await page.close();
-      break;
-
-    } catch (error) {
-      //Contador de fallos
-      console.log(`⚠️ Falló el intento ${intento}.`);
+      fs.writeFileSync(target.output, content);
+      console.log(`✅ Guardado: ${target.output}`);
+    } catch (err) {
+      console.error(`❌ Error en ${target.url}:`, err.message);
+      fs.writeFileSync(target.output, ''); // HTML vacío
+      failedCount++;
+    } finally {
       await page.close();
     }
   }
 
-  if (!exito) {
-    //Si los 3 intentos falla, crea el archivo vacio
-    fs.writeFileSync('simulcast.html', '');
-    console.log('❌ No se pudo cargar después de 3 intentos. Archivo vacío generado.');
-  }
-
   await browser.close();
+
+  if (failedCount === targets.length) {
+    console.error('🛑 Todas las páginas fallaron. Abortando con código de error.');
+    process.exit(1);
+  } else {
+    console.log('🏁 Proceso terminado. Algunas páginas pueden haber fallado.');
+    process.exit(0);
+  }
 })();
