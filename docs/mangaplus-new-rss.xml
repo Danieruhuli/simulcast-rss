@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 30 May 2026 14:07:57 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 15:39:57 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Lunolita - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
+      <guid isPermaLink="false"><![CDATA[Lunolita - #001]]></guid>
+      <pubDate>Sat, 30 May 2026 15:39:57 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_main/603623.jpg?hash=BzNzj8F8d3rVOyAVVRRCuw&expires=2145884400" /><br/>[#001] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NEWWorld Wide Web MIKO! - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100756</link>
@@ -27,13 +34,6 @@
       <guid isPermaLink="false"><![CDATA[Thinking Zombie - One-shot]]></guid>
       <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100760/title_thumbnail_portrait_list/603104.jpg?hash=qDoIG7G3Z73eWwETitlXwA&expires=2145884400" /><br/>[One-shot] Read the Manga Thinking Zombie by RIYA KITANO for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Face - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100755</link>
-      <guid isPermaLink="false"><![CDATA[Face - One-shot]]></guid>
-      <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100755/title_thumbnail_portrait_list/603092.jpg?hash=qOESV_AqoF-rOvPdh0xENg&expires=2145884400" /><br/>[One-shot] Read the Manga Face by MINORU YATSUKADO for free!]]></description>
     </item>
 </channel>
 </rss>
