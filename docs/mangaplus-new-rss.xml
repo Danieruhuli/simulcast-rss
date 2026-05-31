@@ -5,14 +5,14 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 31 May 2026 14:46:09 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 31 May 2026 15:58:48 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Lunolita - #001]]></title>
+      <title><![CDATA[NEWLunolita - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
-      <guid isPermaLink="false"><![CDATA[Lunolita - #001]]></guid>
-      <pubDate>Sun, 31 May 2026 14:46:09 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_main/603623.jpg?hash=BzNzj8F8d3rVOyAVVRRCuw&expires=2145884400" /><br/>[#001] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWLunolita - #001]]></guid>
+      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_portrait_list/603626.jpg?hash=RaoTGVVAfg0ISLp4O1zVBQ&expires=2145884400" /><br/>[#001] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
     </item>
     <item>
       <title><![CDATA[NEWWorld Wide Web MIKO! - #001]]></title>
@@ -27,13 +27,6 @@
       <guid isPermaLink="false"><![CDATA[Dream Partner - One-shot]]></guid>
       <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100761/title_thumbnail_portrait_list/603224.jpg?hash=OM4muCVi6JLjoS2IyEZeKw&expires=2145884400" /><br/>[One-shot] Read the Manga Dream Partner by KAZUKI NONAKA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Thinking Zombie - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100760</link>
-      <guid isPermaLink="false"><![CDATA[Thinking Zombie - One-shot]]></guid>
-      <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100760/title_thumbnail_portrait_list/603104.jpg?hash=qDoIG7G3Z73eWwETitlXwA&expires=2145884400" /><br/>[One-shot] Read the Manga Thinking Zombie by RIYA KITANO for free!]]></description>
     </item>
 </channel>
 </rss>
