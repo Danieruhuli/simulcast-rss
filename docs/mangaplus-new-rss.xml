@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 13:00:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 20:28:33 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Stained in Crimson - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100764</link>
+      <guid isPermaLink="false"><![CDATA[Stained in Crimson - One-shot]]></guid>
+      <pubDate>Tue, 02 Jun 2026 20:28:32 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100764/title_thumbnail_portrait_list/603740.jpg?hash=NKRMWud424t8Eq2BKIiCLA&expires=2145884400" /><br/>[One-shot] Read the Manga Stained in Crimson by INU SUSHIHARA for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NEWLunolita - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false"><![CDATA[NEWWorld Wide Web MIKO! - #001]]></guid>
       <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100756/title_thumbnail_portrait_list/603242.jpg?hash=k2Q3o_xYOXXU-EX6_EixHw&expires=2145884400" /><br/>[#001] Read the Manga World Wide Web MIKO! by Kogattuo / Ichika Kino for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Dream Partner - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100761</link>
-      <guid isPermaLink="false"><![CDATA[Dream Partner - One-shot]]></guid>
-      <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100761/title_thumbnail_portrait_list/603224.jpg?hash=OM4muCVi6JLjoS2IyEZeKw&expires=2145884400" /><br/>[One-shot] Read the Manga Dream Partner by KAZUKI NONAKA for free!]]></description>
     </item>
 </channel>
 </rss>
