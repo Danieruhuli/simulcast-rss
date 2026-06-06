@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 14:32:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 15:55:44 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Hey! Devil Girl! - #001]]></title>
+      <title><![CDATA[Lunolita - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
+      <guid isPermaLink="false"><![CDATA[Lunolita - #002]]></guid>
+      <pubDate>Sat, 06 Jun 2026 15:55:44 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_portrait_list/603626.jpg?hash=RaoTGVVAfg0ISLp4O1zVBQ&expires=2145884400" /><br/>[#002] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWHey! Devil Girl! - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100758</link>
-      <guid isPermaLink="false"><![CDATA[Hey! Devil Girl! - #001]]></guid>
-      <pubDate>Sat, 06 Jun 2026 14:32:07 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100758/title_thumbnail_main/604268.jpg?hash=ft4ahotEF9YA9QBNliGSFw&expires=2145884400" /><br/>[#001] Read the Manga Hey! Devil Girl! by Zao Fukatsu for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWHey! Devil Girl! - #001]]></guid>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100758/title_thumbnail_portrait_list/604271.jpg?hash=zKaSaJkJV4ez-kN1E0oYKQ&expires=2145884400" /><br/>[#001] Read the Manga Hey! Devil Girl! by Zao Fukatsu for free!]]></description>
     </item>
     <item>
       <title><![CDATA[World Wide Web MIKO! - #002]]></title>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[Stained in Crimson - One-shot]]></guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100764/title_thumbnail_portrait_list/603740.jpg?hash=NKRMWud424t8Eq2BKIiCLA&expires=2145884400" /><br/>[One-shot] Read the Manga Stained in Crimson by INU SUSHIHARA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWLunolita - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
-      <guid isPermaLink="false"><![CDATA[NEWLunolita - #001]]></guid>
-      <pubDate>Sat, 30 May 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_portrait_list/603626.jpg?hash=RaoTGVVAfg0ISLp4O1zVBQ&expires=2145884400" /><br/>[#001] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
     </item>
 </channel>
 </rss>
