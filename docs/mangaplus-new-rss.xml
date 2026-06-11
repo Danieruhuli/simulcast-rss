@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 09:24:56 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 17:03:29 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[World Wide Web MIKO! - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100756</link>
+      <guid isPermaLink="false"><![CDATA[World Wide Web MIKO! - #003]]></guid>
+      <pubDate>Thu, 11 Jun 2026 17:03:29 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100756/title_thumbnail_portrait_list/603242.jpg?hash=k2Q3o_xYOXXU-EX6_EixHw&expires=2145884400" /><br/>[#003] Read the Manga World Wide Web MIKO! by Kogattuo / Ichika Kino for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Our Finite Lives… - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100769</link>
       <guid isPermaLink="false"><![CDATA[Our Finite Lives… - One-shot]]></guid>
-      <pubDate>Thu, 11 Jun 2026 09:24:56 GMT</pubDate>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100769/title_thumbnail_portrait_list/604511.jpg?hash=m7o-ZI-PX8-3A8iCuxuchA&expires=2145884400" /><br/>[One-shot] Read the Manga Our Finite Lives… by MUPY for free!]]></description>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false"><![CDATA[NEWHey! Devil Girl! - #001]]></guid>
       <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100758/title_thumbnail_portrait_list/604271.jpg?hash=zKaSaJkJV4ez-kN1E0oYKQ&expires=2145884400" /><br/>[#001] Read the Manga Hey! Devil Girl! by Zao Fukatsu for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[World Wide Web MIKO! - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100756</link>
-      <guid isPermaLink="false"><![CDATA[World Wide Web MIKO! - #002]]></guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100756/title_thumbnail_portrait_list/603242.jpg?hash=k2Q3o_xYOXXU-EX6_EixHw&expires=2145884400" /><br/>[#002] Read the Manga World Wide Web MIKO! by Kogattuo / Ichika Kino for free!]]></description>
     </item>
 </channel>
 </rss>
