@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 11:32:28 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 16:58:50 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Hal Formula - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100767</link>
+      <guid isPermaLink="false"><![CDATA[Hal Formula - #001]]></guid>
+      <pubDate>Sun, 14 Jun 2026 16:58:50 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100767/title_thumbnail_main/604967.jpg?hash=Ie1DT8Qon1mOQRT_q9q9qA&expires=2145884400" /><br/>[#001] Read the Manga Hal Formula by Kento Terasaka for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Animal Signal - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100759</link>
+      <guid isPermaLink="false"><![CDATA[Animal Signal - #002]]></guid>
+      <pubDate>Sun, 14 Jun 2026 16:58:50 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100759/title_thumbnail_portrait_list/604301.jpg?hash=oRHp7rVemMKJN648KbQaqg&expires=2145884400" /><br/>[#002] Read the Manga Animal Signal by Robinson Haruhara / Taishi Tsutsui for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Lunolita - #003]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
       <guid isPermaLink="false"><![CDATA[Lunolita - #003]]></guid>
-      <pubDate>Sun, 14 Jun 2026 11:32:28 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_portrait_list/603626.jpg?hash=RaoTGVVAfg0ISLp4O1zVBQ&expires=2145884400" /><br/>[#003] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
     </item>
     <item>
@@ -41,20 +55,6 @@
       <guid isPermaLink="false"><![CDATA[NEWTwilight Blade - #001]]></guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100766/title_thumbnail_portrait_list/604445.jpg?hash=ma6P0BIAB92dQ2kopAsiuw&expires=2145884400" /><br/>[#001] Read the Manga Twilight Blade by Chiyoko Maruume / Tokegoro for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWAnimal Signal - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100759</link>
-      <guid isPermaLink="false"><![CDATA[NEWAnimal Signal - #001]]></guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100759/title_thumbnail_portrait_list/604301.jpg?hash=oRHp7rVemMKJN648KbQaqg&expires=2145884400" /><br/>[#001] Read the Manga Animal Signal by Robinson Haruhara / Taishi Tsutsui for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Stray Eden - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100768</link>
-      <guid isPermaLink="false"><![CDATA[Stray Eden - One-shot]]></guid>
-      <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100768/title_thumbnail_portrait_list/604241.jpg?hash=B2Sbr6V88aTTNFC0U5P8Ng&expires=2145884400" /><br/>[One-shot] Read the Manga Stray Eden by YOSUGA KASUMI for free!]]></description>
     </item>
 </channel>
 </rss>
