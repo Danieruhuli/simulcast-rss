@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Jun 2026 16:07:07 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 18:37:33 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[GHOST CONCERT : missing Songs Season 1 - Episodio 12 - Episode 12]]></title>
@@ -323,9 +323,18 @@
   
 
     <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Deutsch) - Episodio 8 - Los preparativos de la avaricia]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374372DEDE/the-groundwork-of-greed</link>
-      <guid isPermaLink="false">GE00374372DEDE/the-groundwork-of-greed</guid>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (العربية) - Episodio 8 - Los preparativos de la avaricia]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374372ARSA/the-groundwork-of-greed</link>
+      <guid isPermaLink="false">GE00374372ARSA/the-groundwork-of-greed</guid>
+      <pubDate>Fri, 19 Jun 2026 15:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/0d6f870ac216e125bf8aacb9a90c1be1.png" /><br/>Episodio 8 - Los preparativos de la avaricia]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Español (España)) - Episodio 8 - Los preparativos de la avaricia]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374372ESES/the-groundwork-of-greed</link>
+      <guid isPermaLink="false">GE00374372ESES/the-groundwork-of-greed</guid>
       <pubDate>Fri, 19 Jun 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/0d6f870ac216e125bf8aacb9a90c1be1.png" /><br/>Episodio 8 - Los preparativos de la avaricia]]></description>
     </item>
@@ -341,18 +350,9 @@
   
 
     <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (العربية) - Episodio 8 - Los preparativos de la avaricia]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374372ARSA/the-groundwork-of-greed</link>
-      <guid isPermaLink="false">GE00374372ARSA/the-groundwork-of-greed</guid>
-      <pubDate>Fri, 19 Jun 2026 15:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/0d6f870ac216e125bf8aacb9a90c1be1.png" /><br/>Episodio 8 - Los preparativos de la avaricia]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Español (España)) - Episodio 8 - Los preparativos de la avaricia]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374372ESES/the-groundwork-of-greed</link>
-      <guid isPermaLink="false">GE00374372ESES/the-groundwork-of-greed</guid>
+      <title><![CDATA[That Time I Got Reincarnated as a Slime Season 4 (Deutsch) - Episodio 8 - Los preparativos de la avaricia]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374372DEDE/the-groundwork-of-greed</link>
+      <guid isPermaLink="false">GE00374372DEDE/the-groundwork-of-greed</guid>
       <pubDate>Fri, 19 Jun 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/0d6f870ac216e125bf8aacb9a90c1be1.png" /><br/>Episodio 8 - Los preparativos de la avaricia]]></description>
     </item>
@@ -504,15 +504,6 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346974DEDE/episode-36</link>
-      <guid isPermaLink="false">GE00346974DEDE/episode-36</guid>
-      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/628f53cbb97bb1af095d18fdb43b98a4.png" /><br/>Episodio 36 - Episode 36]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00346974ITIT/episode-36</link>
       <guid isPermaLink="false">GE00346974ITIT/episode-36</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
@@ -531,8 +522,8 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346974ARSA/episode-36</link>
-      <guid isPermaLink="false">GE00346974ARSA/episode-36</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346974ENUS/episode-36</link>
+      <guid isPermaLink="false">GE00346974ENUS/episode-36</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/628f53cbb97bb1af095d18fdb43b98a4.png" /><br/>Episodio 36 - Episode 36]]></description>
     </item>
@@ -549,8 +540,17 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346974ENUS/episode-36</link>
-      <guid isPermaLink="false">GE00346974ENUS/episode-36</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346974DEDE/episode-36</link>
+      <guid isPermaLink="false">GE00346974DEDE/episode-36</guid>
+      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/628f53cbb97bb1af095d18fdb43b98a4.png" /><br/>Episodio 36 - Episode 36]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00346974ESES/episode-36</link>
+      <guid isPermaLink="false">GE00346974ESES/episode-36</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/628f53cbb97bb1af095d18fdb43b98a4.png" /><br/>Episodio 36 - Episode 36]]></description>
     </item>
@@ -576,8 +576,8 @@
 
     <item>
       <title><![CDATA[Dr. STONE SCIENCE FUTURE - Episodio 36 - Episode 36]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00346974ESES/episode-36</link>
-      <guid isPermaLink="false">GE00346974ESES/episode-36</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00346974ARSA/episode-36</link>
+      <guid isPermaLink="false">GE00346974ARSA/episode-36</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/628f53cbb97bb1af095d18fdb43b98a4.png" /><br/>Episodio 36 - Episode 36]]></description>
     </item>
@@ -589,15 +589,6 @@
       <guid isPermaLink="false">GE00374880JAJP/episode-11</guid>
       <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8dcca7e1d4958da899a7b8b830acf260.png" /><br/>Episodio 11 - Episode 11]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[The Rising of the Shield Hero Season 4 (తెలుగు) - Episodio 12 - El retorno de la emperatriz]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00354064TEIN/return-of-the-emperor</link>
-      <guid isPermaLink="false">GE00354064TEIN/return-of-the-emperor</guid>
-      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/68c16dbcc8d3756129c591296b171a2f.png" /><br/>Episodios 1-12 - El retorno de la emperatriz]]></description>
     </item>
   
 
@@ -620,6 +611,15 @@
   
 
     <item>
+      <title><![CDATA[The Rising of the Shield Hero Season 4 (తెలుగు) - Episodio 12 - El retorno de la emperatriz]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00354064TEIN/return-of-the-emperor</link>
+      <guid isPermaLink="false">GE00354064TEIN/return-of-the-emperor</guid>
+      <pubDate>Thu, 18 Jun 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/68c16dbcc8d3756129c591296b171a2f.png" /><br/>Episodios 1-12 - El retorno de la emperatriz]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (हिंदी) - Episodio 8 - El juramento del collar]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00362269HIIN/a-contract-in-the-form-of-a-collaring</link>
       <guid isPermaLink="false">GE00362269HIIN/a-contract-in-the-form-of-a-collaring</guid>
@@ -629,11 +629,11 @@
   
 
     <item>
-      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (తెలుగు) - Episodio 8 - El juramento del collar]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00362269TEIN/a-contract-in-the-form-of-a-collaring</link>
-      <guid isPermaLink="false">GE00362269TEIN/a-contract-in-the-form-of-a-collaring</guid>
+      <title><![CDATA[The Warrior Princess and the Barbaric King Season 1 (Deutsch) - Episodio 8 - El juramento del collar]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00362269DEDE/a-contract-in-the-form-of-a-collaring</link>
+      <guid isPermaLink="false">GE00362269DEDE/a-contract-in-the-form-of-a-collaring</guid>
       <pubDate>Thu, 18 Jun 2026 12:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a4522505eeffb53d55a4f6666eda79d0.png" /><br/>Episodio 8 - El juramento del collar]]></description>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/a4522505eeffb53d55a4f6666eda79d0.png" /><br/>Episodio 8 en 17:52:35 - El juramento del collar]]></description>
     </item>
   
 </channel>
