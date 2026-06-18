@@ -1,4 +1,4 @@
-name: Guardar HTML renderizado de Crunchyroll
+name: Generar RSS de Crunchyroll
 
 on:
   push:
@@ -18,6 +18,15 @@ jobs:
     steps:
       - name: Clona el repositorio
         uses: actions/checkout@v4
+
+      - name: Cache node_modules
+        uses: actions/cache@v4
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-        
+
 
       - name: Instala dependencias
         run: |
@@ -40,6 +49,13 @@ jobs:
               echo "❌ npm ci falló después de 5 intentos."
               exit 1
             fi
+
+      - name: Cache Puppeteer Chromium
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/puppeteer
+          key: ${{ runner.os }}-puppeteer
+
 
       - name: Instala Chromium para Puppeteer
         run: |
@@ -66,14 +82,17 @@ jobs:
       - name: Ejecuta script para renderizar HTML
         run: node snapshot.js
 
-      - name: Genera RSS a partir del HTML
+      - name: Genera RSS de Crunchyroll a partir del HTML
         run: node generate-rss.js
+
+      - name: Genera RSS de MangaPlus
+        run: node generate-mangaplus-rss.js
 
       - name: Sube HTML y RSS generados
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add simulcast.html docs/simulcast-rss.xml
-          git commit -m "💕Update simulcast.html y RSS [auto]" || echo "No changes to commit"
+          git add simulcast.html docs/simulcast-rss.xml docs/mangaplus-rss.xml docs/mangaplus-new-rss.xml
+          git commit -m "💕Update simulcast.html, RSS y MangaPlus [auto]" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GIT_AUTH_TOKEN}@github.com/${{ github.repository }}
           git push

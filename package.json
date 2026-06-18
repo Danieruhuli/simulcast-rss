@@ -6,12 +6,14 @@
   "type": "commonjs",
   "scripts": {
     "start": "node snapshot.js",
-    "generate:rss": "node generate-rss.js"
+    "generate:rss": "node generate-rss.js",
+    "mangaplus:rss": "node generate-mangaplus-rss.js"
   },
   "dependencies": {
+    "jsdom": "24.0.0",
     "puppeteer": "^21.3.8",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
-    "jsdom": "24.0.0"
+    "xml2js": "^0.6.2"
   }
 }
