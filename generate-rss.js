@@ -131,12 +131,18 @@ async function main() {
   // Ordenar del más nuevo al más viejo
   const merged = uniqueByGuid.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   console.log(`📋 Total final de elementos sin duplicados: ${merged.length}`);
-  if(merged.length>70){
+  
+  // Filtrar solo items donde PubDate <= ahora (evita links de episodios del calendario aún no disponibles)
+  const currentTime = new Date();
+  const filteredItems = merged.filter(item => new Date(item.pubDate) <= currentTime);
+  console.log(`⏳ Después de filtrar (solo items con fecha ≤ ahora): ${filteredItems.length} elementos`);
+  
+  if(filteredItems.length>70){
     console.log(`✂️  El total será limitado a 70 elementos`);
   }
 
   //Tamaño máximo, 70 registros
-  const sortedItems = merged.slice(0, 70);
+  const sortedItems = filteredItems.slice(0, 70);
   // -----------------------------------------------------
   // 5) Generar RSS final
   // -----------------------------------------------------
