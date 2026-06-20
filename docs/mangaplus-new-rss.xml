@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 11:33:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 15:18:17 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Otonashi's Rules - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100774</link>
+      <guid isPermaLink="false"><![CDATA[Otonashi's Rules - One-shot]]></guid>
+      <pubDate>Sat, 20 Jun 2026 15:18:17 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100774/title_thumbnail_portrait_list/605654.jpg?hash=-LHppBV54Op-x0zWi1EOiw&expires=2145884400" /><br/>[One-shot] Read the Manga Otonashi's Rules by NIJIO ROKUNO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Hey! Devil Girl! - #003]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100758</link>
       <guid isPermaLink="false"><![CDATA[Hey! Devil Girl! - #003]]></guid>
-      <pubDate>Sat, 20 Jun 2026 11:33:17 GMT</pubDate>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100758/title_thumbnail_portrait_list/604271.jpg?hash=zKaSaJkJV4ez-kN1E0oYKQ&expires=2145884400" /><br/>[#003] Read the Manga Hey! Devil Girl! by Zao Fukatsu for free!]]></description>
     </item>
     <item>
@@ -55,13 +62,6 @@
       <guid isPermaLink="false"><![CDATA[Animal Signal - #002]]></guid>
       <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100759/title_thumbnail_portrait_list/604301.jpg?hash=oRHp7rVemMKJN648KbQaqg&expires=2145884400" /><br/>[#002] Read the Manga Animal Signal by Robinson Haruhara / Taishi Tsutsui for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Lunolita - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100757</link>
-      <guid isPermaLink="false"><![CDATA[Lunolita - #003]]></guid>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100757/title_thumbnail_portrait_list/603626.jpg?hash=RaoTGVVAfg0ISLp4O1zVBQ&expires=2145884400" /><br/>[#003] Read the Manga Lunolita by Kinoshi Wata for free!]]></description>
     </item>
 </channel>
 </rss>
