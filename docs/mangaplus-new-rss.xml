@@ -5,13 +5,41 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 21 Jun 2026 13:29:54 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 15:28:22 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Cannon Master - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100772</link>
+      <guid isPermaLink="false"><![CDATA[Cannon Master - #001]]></guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:22 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100772/title_thumbnail_main/605705.jpg?hash=_MfoZRevPJcHwaSOfc5JNg&expires=2145884400" /><br/>[#001] Read the Manga Cannon Master by Reiya Machida for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Hal Formula - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100767</link>
+      <guid isPermaLink="false"><![CDATA[Hal Formula - #002]]></guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:22 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100767/title_thumbnail_portrait_list/604970.jpg?hash=410vAuplMiGEz-fN4MluYA&expires=2145884400" /><br/>[#002] Read the Manga Hal Formula by Kento Terasaka for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Animal Signal - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100759</link>
+      <guid isPermaLink="false"><![CDATA[Animal Signal - #003]]></guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:22 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100759/title_thumbnail_portrait_list/604301.jpg?hash=oRHp7rVemMKJN648KbQaqg&expires=2145884400" /><br/>[#003] Read the Manga Animal Signal by Robinson Haruhara / Taishi Tsutsui for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Tecchan and Me - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100775</link>
+      <guid isPermaLink="false"><![CDATA[Tecchan and Me - One-shot]]></guid>
+      <pubDate>Sun, 21 Jun 2026 15:28:22 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100775/title_thumbnail_portrait_list/605666.jpg?hash=y0b3JSERSyW8wo_yp6DWZg&expires=2145884400" /><br/>[One-shot] Read the Manga Tecchan and Me by BISUKE KOJIMA for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Otonashi's Rules - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100774</link>
       <guid isPermaLink="false"><![CDATA[Otonashi's Rules - One-shot]]></guid>
-      <pubDate>Sun, 21 Jun 2026 13:29:54 GMT</pubDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100774/title_thumbnail_portrait_list/605654.jpg?hash=-LHppBV54Op-x0zWi1EOiw&expires=2145884400" /><br/>[One-shot] Read the Manga Otonashi's Rules by NIJIO ROKUNO for free!]]></description>
     </item>
     <item>
@@ -48,20 +76,6 @@
       <guid isPermaLink="false"><![CDATA[London Occult Life Insurance - One-shot]]></guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100770/title_thumbnail_portrait_list/605102.jpg?hash=CltAaEM19ZWeC4OVS-ekXw&expires=2145884400" /><br/>[One-shot] Read the Manga London Occult Life Insurance by TOMOHIDE HIRAO / SHO SHIROMOTO for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWHal Formula - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100767</link>
-      <guid isPermaLink="false"><![CDATA[NEWHal Formula - #001]]></guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100767/title_thumbnail_portrait_list/604970.jpg?hash=410vAuplMiGEz-fN4MluYA&expires=2145884400" /><br/>[#001] Read the Manga Hal Formula by Kento Terasaka for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Animal Signal - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100759</link>
-      <guid isPermaLink="false"><![CDATA[Animal Signal - #002]]></guid>
-      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100759/title_thumbnail_portrait_list/604301.jpg?hash=oRHp7rVemMKJN648KbQaqg&expires=2145884400" /><br/>[#002] Read the Manga Animal Signal by Robinson Haruhara / Taishi Tsutsui for free!]]></description>
     </item>
 </channel>
 </rss>
