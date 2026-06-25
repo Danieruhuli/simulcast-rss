@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Thu, 25 Jun 2026 13:30:03 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 16:04:39 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Take Off Those Sunglasses When You're Talking to People - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100777</link>
+      <guid isPermaLink="false"><![CDATA[Take Off Those Sunglasses When You're Talking to People - One-shot]]></guid>
+      <pubDate>Thu, 25 Jun 2026 16:04:39 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100777/title_thumbnail_portrait_list/606053.jpg?hash=89ZogkC-qSk8gjaDwDxK4A&expires=2145884400" /><br/>[One-shot] Read the Manga Take Off Those Sunglasses When You're Talking to People by SHORI TAGAMI for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Suckless Mate - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100776</link>
       <guid isPermaLink="false"><![CDATA[Suckless Mate - One-shot]]></guid>
-      <pubDate>Thu, 25 Jun 2026 13:30:03 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100776/title_thumbnail_portrait_list/605888.jpg?hash=jBOq6Yj7d6W9LZYZq89YAw&expires=2145884400" /><br/>[One-shot] Read the Manga Suckless Mate by KOKI IMAMURA for free!]]></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <guid isPermaLink="false"><![CDATA[Hey! Devil Girl! - #003]]></guid>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100758/title_thumbnail_portrait_list/604271.jpg?hash=zKaSaJkJV4ez-kN1E0oYKQ&expires=2145884400" /><br/>[#003] Read the Manga Hey! Devil Girl! by Zao Fukatsu for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[World Wide Web MIKO! - #004]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100756</link>
-      <guid isPermaLink="false"><![CDATA[World Wide Web MIKO! - #004]]></guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100756/title_thumbnail_portrait_list/603242.jpg?hash=k2Q3o_xYOXXU-EX6_EixHw&expires=2145884400" /><br/>[#004] Read the Manga World Wide Web MIKO! by Kogattuo / Ichika Kino for free!]]></description>
     </item>
 </channel>
 </rss>
