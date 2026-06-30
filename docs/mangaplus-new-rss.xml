@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 30 Jun 2026 13:25:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 16:06:51 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Twilight Blade - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100766</link>
+      <guid isPermaLink="false"><![CDATA[Twilight Blade - #004]]></guid>
+      <pubDate>Tue, 30 Jun 2026 16:06:51 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100766/title_thumbnail_portrait_list/604445.jpg?hash=ma6P0BIAB92dQ2kopAsiuw&expires=2145884400" /><br/>[#004] Read the Manga Twilight Blade by Chiyoko Maruume / Tokegoro for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[BLACK  SHEEP - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100781</link>
+      <guid isPermaLink="false"><![CDATA[BLACK  SHEEP - One-shot]]></guid>
+      <pubDate>Tue, 30 Jun 2026 16:06:51 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100781/title_thumbnail_portrait_list/606728.jpg?hash=PyzuSVWuqc_xeMvE_Yx2ag&expires=2145884400" /><br/>[One-shot] Read the Manga BLACK  SHEEP by MICHIRO HASHIMOTO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[High-End Maid - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100780</link>
       <guid isPermaLink="false"><![CDATA[High-End Maid - One-shot]]></guid>
-      <pubDate>Tue, 30 Jun 2026 13:25:51 GMT</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100780/title_thumbnail_portrait_list/606563.jpg?hash=uiJzzhSCX_CoYQKLJUZBEg&expires=2145884400" /><br/>[One-shot] Read the Manga High-End Maid by DAIKU KATSURAGI for free!]]></description>
     </item>
     <item>
@@ -69,13 +83,6 @@
       <guid isPermaLink="false"><![CDATA[Suckless Mate - One-shot]]></guid>
       <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100776/title_thumbnail_portrait_list/605888.jpg?hash=jBOq6Yj7d6W9LZYZq89YAw&expires=2145884400" /><br/>[One-shot] Read the Manga Suckless Mate by KOKI IMAMURA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Twilight Blade - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100766</link>
-      <guid isPermaLink="false"><![CDATA[Twilight Blade - #003]]></guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100766/title_thumbnail_portrait_list/604445.jpg?hash=ma6P0BIAB92dQ2kopAsiuw&expires=2145884400" /><br/>[#003] Read the Manga Twilight Blade by Chiyoko Maruume / Tokegoro for free!]]></description>
     </item>
 </channel>
 </rss>
