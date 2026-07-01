@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Wed, 01 Jul 2026 22:20:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Jul 2026 23:55:23 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[The Beginning After the End Season 2 (Español (América Latina)) - Episodio 11 - The King Celebrates]]></title>
@@ -125,9 +125,9 @@
   
 
     <item>
-      <title><![CDATA[Rent-a-Girlfriend Season 5 (Español (América Latina)) - Episodio 10 - Childhood Home and Girlfriend]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375126ES419/childhood-home-and-girlfriend</link>
-      <guid isPermaLink="false">GE00375126ES419/childhood-home-and-girlfriend</guid>
+      <title><![CDATA[Rent-a-Girlfriend Season 5 (Deutsch) - Episodio 10 - Childhood Home and Girlfriend]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375126DEDE/childhood-home-and-girlfriend</link>
+      <guid isPermaLink="false">GE00375126DEDE/childhood-home-and-girlfriend</guid>
       <pubDate>Wed, 01 Jul 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/44c75822011d8e55ed9a10f4cbb3bd47.png" /><br/>Episodio 10 Disponible - Childhood Home and Girlfriend]]></description>
     </item>
@@ -143,9 +143,9 @@
   
 
     <item>
-      <title><![CDATA[Rent-a-Girlfriend Season 5 (Deutsch) - Episodio 10 - Childhood Home and Girlfriend]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375126DEDE/childhood-home-and-girlfriend</link>
-      <guid isPermaLink="false">GE00375126DEDE/childhood-home-and-girlfriend</guid>
+      <title><![CDATA[Rent-a-Girlfriend Season 5 (Español (América Latina)) - Episodio 10 - Childhood Home and Girlfriend]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375126ES419/childhood-home-and-girlfriend</link>
+      <guid isPermaLink="false">GE00375126ES419/childhood-home-and-girlfriend</guid>
       <pubDate>Wed, 01 Jul 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/44c75822011d8e55ed9a10f4cbb3bd47.png" /><br/>Episodio 10 Disponible - Childhood Home and Girlfriend]]></description>
     </item>
@@ -458,27 +458,9 @@
   
 
     <item>
-      <title><![CDATA[LIAR GAME Season 1 (Bahasa Indonesia) - Episodio 10 - Salvation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374927IDID/salvation</link>
-      <guid isPermaLink="false">GE00374927IDID/salvation</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[LIAR GAME Season 1 (हिंदी) - Episodio 10 - Salvation]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374927HIIN/salvation</link>
       <guid isPermaLink="false">GE00374927HIIN/salvation</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[LIAR GAME Season 1 (தமிழ்) - Episodio 10 - Salvation]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374927TAIN/salvation</link>
-      <guid isPermaLink="false">GE00374927TAIN/salvation</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
     </item>
@@ -497,6 +479,24 @@
       <title><![CDATA[LIAR GAME Season 1 (ไทย) - Episodio 10 - Salvation]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374927THTH/salvation</link>
       <guid isPermaLink="false">GE00374927THTH/salvation</guid>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[LIAR GAME Season 1 (தமிழ்) - Episodio 10 - Salvation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374927TAIN/salvation</link>
+      <guid isPermaLink="false">GE00374927TAIN/salvation</guid>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[LIAR GAME Season 1 (Bahasa Indonesia) - Episodio 10 - Salvation]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374927IDID/salvation</link>
+      <guid isPermaLink="false">GE00374927IDID/salvation</guid>
       <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/5e3032ef1f0862df095e15c8a7801ac7.png" /><br/>Episodio 10 Disponible - Salvation]]></description>
     </item>
