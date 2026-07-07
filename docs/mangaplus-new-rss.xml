@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 07 Jul 2026 14:29:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 16:59:17 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[The Cigarette Wears an Angel's Face - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100795</link>
+      <guid isPermaLink="false"><![CDATA[The Cigarette Wears an Angel's Face - One-shot]]></guid>
+      <pubDate>Tue, 07 Jul 2026 16:59:17 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100795/title_thumbnail_portrait_list/607643.jpg?hash=H2SmVkjPt85Rq4ZhkD2FXg&expires=2145884400" /><br/>[One-shot] Read the Manga The Cigarette Wears an Angel's Face by KIRA KOKYO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[My Teacher is a Former Psychic Girl - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100794</link>
       <guid isPermaLink="false"><![CDATA[My Teacher is a Former Psychic Girl - One-shot]]></guid>
-      <pubDate>Tue, 07 Jul 2026 14:29:23 GMT</pubDate>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100794/title_thumbnail_portrait_list/607460.jpg?hash=FlzGJpD5Rbp9fov-tCYl_A&expires=2145884400" /><br/>[One-shot] Read the Manga My Teacher is a Former Psychic Girl by KUROTO for free!]]></description>
     </item>
     <item>
@@ -55,20 +62,6 @@
       <guid isPermaLink="false"><![CDATA[Area: The Beckoning Mist - One-shot]]></guid>
       <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100782/title_thumbnail_portrait_list/606794.jpg?hash=rDwDhie4zBmowimfARz5bw&expires=2145884400" /><br/>[One-shot] Read the Manga Area: The Beckoning Mist by CHIKASUI for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Twilight Blade - #004]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100766</link>
-      <guid isPermaLink="false"><![CDATA[Twilight Blade - #004]]></guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100766/title_thumbnail_portrait_list/604445.jpg?hash=ma6P0BIAB92dQ2kopAsiuw&expires=2145884400" /><br/>[#004] Read the Manga Twilight Blade by Chiyoko Maruume / Tokegoro for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[BLACK  SHEEP - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100781</link>
-      <guid isPermaLink="false"><![CDATA[BLACK  SHEEP - One-shot]]></guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100781/title_thumbnail_portrait_list/606728.jpg?hash=PyzuSVWuqc_xeMvE_Yx2ag&expires=2145884400" /><br/>[One-shot] Read the Manga BLACK  SHEEP by MICHIRO HASHIMOTO for free!]]></description>
     </item>
 </channel>
 </rss>
