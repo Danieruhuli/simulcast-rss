@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Wed, 08 Jul 2026 09:10:56 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 11:20:41 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Versatile Mage Season 7 (中文 (普通话)) - Episodio 8 - Episodio 8]]></title>
@@ -125,18 +125,9 @@
   
 
     <item>
-      <title><![CDATA[MARRIAGETOXIN Season 1 (Français) - Episodio 11 - Ofrenda]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374980FRFR/offering</link>
-      <guid isPermaLink="false">GE00374980FRFR/offering</guid>
-      <pubDate>Tue, 07 Jul 2026 14:30:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9ba6dc0f3877e491ccaca39a0bc504c0.png" /><br/>Episodio 11 Disponible - Ofrenda]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[MARRIAGETOXIN Season 1 (தமிழ்) - Episodio 11 - Ofrenda]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374980TAIN/offering</link>
-      <guid isPermaLink="false">GE00374980TAIN/offering</guid>
+      <title><![CDATA[MARRIAGETOXIN Season 1 (Español (América Latina)) - Episodio 11 - Ofrenda]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374980ES419/offering</link>
+      <guid isPermaLink="false">GE00374980ES419/offering</guid>
       <pubDate>Tue, 07 Jul 2026 14:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9ba6dc0f3877e491ccaca39a0bc504c0.png" /><br/>Episodio 11 Disponible - Ofrenda]]></description>
     </item>
@@ -161,6 +152,15 @@
   
 
     <item>
+      <title><![CDATA[MARRIAGETOXIN Season 1 (தமிழ்) - Episodio 11 - Ofrenda]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374980TAIN/offering</link>
+      <guid isPermaLink="false">GE00374980TAIN/offering</guid>
+      <pubDate>Tue, 07 Jul 2026 14:30:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9ba6dc0f3877e491ccaca39a0bc504c0.png" /><br/>Episodio 11 Disponible - Ofrenda]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[MARRIAGETOXIN Season 1 (Deutsch) - Episodio 11 - Ofrenda]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374980DEDE/offering</link>
       <guid isPermaLink="false">GE00374980DEDE/offering</guid>
@@ -179,9 +179,9 @@
   
 
     <item>
-      <title><![CDATA[MARRIAGETOXIN Season 1 (Español (América Latina)) - Episodio 11 - Ofrenda]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374980ES419/offering</link>
-      <guid isPermaLink="false">GE00374980ES419/offering</guid>
+      <title><![CDATA[MARRIAGETOXIN Season 1 (Français) - Episodio 11 - Ofrenda]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374980FRFR/offering</link>
+      <guid isPermaLink="false">GE00374980FRFR/offering</guid>
       <pubDate>Tue, 07 Jul 2026 14:30:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/9ba6dc0f3877e491ccaca39a0bc504c0.png" /><br/>Episodio 11 Disponible - Ofrenda]]></description>
     </item>
