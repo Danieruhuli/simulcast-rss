@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 15 Jul 2026 11:55:34 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 15:15:31 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Soon, You'll Paint Your Heart Out - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100785</link>
+      <guid isPermaLink="false"><![CDATA[Soon, You'll Paint Your Heart Out - #001]]></guid>
+      <pubDate>Wed, 15 Jul 2026 15:15:31 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100785/title_thumbnail_main/608579.jpg?hash=mzm7l-DHzy4tQq9DpNyfzQ&expires=2145884400" /><br/>[#001] Read the Manga Soon, You'll Paint Your Heart Out by Neguse Okita for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[highway - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100799</link>
+      <guid isPermaLink="false"><![CDATA[highway - One-shot]]></guid>
+      <pubDate>Wed, 15 Jul 2026 15:15:31 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100799/title_thumbnail_portrait_list/608480.jpg?hash=fSFPYMYJ1b0VsBlT41MaSg&expires=2145884400" /><br/>[One-shot] Read the Manga highway by DANKA SHIOBARA for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[My Little Brother Is a Pianist - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100798</link>
       <guid isPermaLink="false"><![CDATA[My Little Brother Is a Pianist - One-shot]]></guid>
-      <pubDate>Wed, 15 Jul 2026 11:55:34 GMT</pubDate>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100798/title_thumbnail_portrait_list/608411.jpg?hash=CLn_EncHZbrufWfI6mGBwQ&expires=2145884400" /><br/>[One-shot] Read the Manga My Little Brother Is a Pianist by SOTARO for free!]]></description>
     </item>
     <item>
@@ -34,13 +48,6 @@
       <guid isPermaLink="false"><![CDATA[A Questionnaire on the Mouth - #002]]></guid>
       <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100778/title_thumbnail_portrait_list/606788.jpg?hash=FkFzP9hLuDYg9gerGPpbHg&expires=2145884400" /><br/>[#002] Read the Manga A Questionnaire on the Mouth by Sesuji / Shuzo Oshimi for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Fairy Olivine - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100796</link>
-      <guid isPermaLink="false"><![CDATA[Fairy Olivine - One-shot]]></guid>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100796/title_thumbnail_portrait_list/607685.jpg?hash=mtVKTWOxtEFLwmoeAKR4XA&expires=2145884400" /><br/>[One-shot] Read the Manga Fairy Olivine by YARIKU HIRAHAMA for free!]]></description>
     </item>
 </channel>
 </rss>
