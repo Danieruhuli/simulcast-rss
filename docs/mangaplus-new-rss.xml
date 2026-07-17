@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Fri, 17 Jul 2026 13:28:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 15:00:39 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Baby Road Trippers - #001]]></title>
+      <title><![CDATA[A Questionnaire on the Mouth - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100778</link>
+      <guid isPermaLink="false"><![CDATA[A Questionnaire on the Mouth - #003]]></guid>
+      <pubDate>Fri, 17 Jul 2026 15:00:39 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100778/title_thumbnail_main/606785.jpg?hash=cceoGbYhShBUUqk_fWbJnQ&expires=2145884400" /><br/>[#003] Read the Manga A Questionnaire on the Mouth by Sesuji / Shuzo Oshimi for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWBaby Road Trippers - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100786</link>
-      <guid isPermaLink="false"><![CDATA[Baby Road Trippers - #001]]></guid>
-      <pubDate>Fri, 17 Jul 2026 13:28:25 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100786/title_thumbnail_main/608696.jpg?hash=8qfuKe2ZL8TzQSKS_PFjGA&expires=2145884400" /><br/>[#001] Read the Manga Baby Road Trippers by Tabireco for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWBaby Road Trippers - #001]]></guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100786/title_thumbnail_portrait_list/608468.jpg?hash=tPmgMSpqijZ170YrMVF3JA&expires=2145884400" /><br/>[#001] Read the Manga Baby Road Trippers by Tabireco for free!]]></description>
     </item>
     <item>
       <title><![CDATA[NEWSoon, You'll Paint Your Heart Out - #001]]></title>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false"><![CDATA[Cannon Master - #004]]></guid>
       <pubDate>Sun, 12 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100772/title_thumbnail_portrait_list/605708.jpg?hash=i9SD0n9Tqt9ETjNLTcvOCQ&expires=2145884400" /><br/>[#004] Read the Manga Cannon Master by Reiya Machida for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[A Questionnaire on the Mouth - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100778</link>
-      <guid isPermaLink="false"><![CDATA[A Questionnaire on the Mouth - #002]]></guid>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100778/title_thumbnail_portrait_list/606788.jpg?hash=FkFzP9hLuDYg9gerGPpbHg&expires=2145884400" /><br/>[#002] Read the Manga A Questionnaire on the Mouth by Sesuji / Shuzo Oshimi for free!]]></description>
     </item>
 </channel>
 </rss>
