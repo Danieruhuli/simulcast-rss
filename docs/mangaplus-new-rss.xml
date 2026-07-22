@@ -5,13 +5,13 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 22 Jul 2026 09:12:43 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 15:06:51 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Running Toward Yesterday - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100804</link>
       <guid isPermaLink="false"><![CDATA[Running Toward Yesterday - One-shot]]></guid>
-      <pubDate>Wed, 22 Jul 2026 09:12:43 GMT</pubDate>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100804/title_thumbnail_portrait_list/609149.jpg?hash=7MDXu4fY-eYsph2p8auRmw&expires=2145884400" /><br/>[One-shot] Read the Manga Running Toward Yesterday by TOBIRA NATSUSHIMA for free!]]></description>
     </item>
     <item>
@@ -34,20 +34,6 @@
       <guid isPermaLink="false"><![CDATA[NEWBaby Road Trippers - #001]]></guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100786/title_thumbnail_portrait_list/608468.jpg?hash=tPmgMSpqijZ170YrMVF3JA&expires=2145884400" /><br/>[#001] Read the Manga Baby Road Trippers by Tabireco for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWSoon, You'll Paint Your Heart Out - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100785</link>
-      <guid isPermaLink="false"><![CDATA[NEWSoon, You'll Paint Your Heart Out - #001]]></guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100785/title_thumbnail_portrait_list/608552.jpg?hash=5_t7Qwk35W2xmVXC4QwCfw&expires=2145884400" /><br/>[#001] Read the Manga Soon, You'll Paint Your Heart Out by Neguse Okita for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[highway - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100799</link>
-      <guid isPermaLink="false"><![CDATA[highway - One-shot]]></guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100799/title_thumbnail_portrait_list/608480.jpg?hash=fSFPYMYJ1b0VsBlT41MaSg&expires=2145884400" /><br/>[One-shot] Read the Manga highway by DANKA SHIOBARA for free!]]></description>
     </item>
 </channel>
 </rss>
