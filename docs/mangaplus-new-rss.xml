@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Fri, 24 Jul 2026 14:57:22 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 19:43:31 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[A Questionnaire on the Mouth - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100778</link>
+      <guid isPermaLink="false"><![CDATA[A Questionnaire on the Mouth - #004]]></guid>
+      <pubDate>Fri, 24 Jul 2026 19:43:31 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100778/title_thumbnail_portrait_list/606788.jpg?hash=FkFzP9hLuDYg9gerGPpbHg&expires=2145884400" /><br/>[#004] Read the Manga A Questionnaire on the Mouth by Sesuji / Shuzo Oshimi for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Running Toward Yesterday - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100804</link>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false"><![CDATA[An Anarchic New Semester! - One-shot]]></guid>
       <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100803/title_thumbnail_portrait_list/609062.jpg?hash=egfgIpRC5F1F3kKQ4GSVvA&expires=2145884400" /><br/>[One-shot] Read the Manga An Anarchic New Semester! by KAZU KOGUSHI for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[A Questionnaire on the Mouth - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100778</link>
-      <guid isPermaLink="false"><![CDATA[A Questionnaire on the Mouth - #003]]></guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100778/title_thumbnail_portrait_list/606788.jpg?hash=FkFzP9hLuDYg9gerGPpbHg&expires=2145884400" /><br/>[#003] Read the Manga A Questionnaire on the Mouth by Sesuji / Shuzo Oshimi for free!]]></description>
     </item>
 </channel>
 </rss>
