@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Wed, 05 Aug 2026 09:08:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 11:32:57 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Versatile Mage Season 7 (中文 (普通话)) - Episodio 12 - Episodio 12]]></title>
@@ -18,8 +18,8 @@
 
     <item>
       <title><![CDATA[Blue Exorcist -The Blue Night Saga- - Episodio 12 - Gracias]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00328043ES419/thank-you</link>
-      <guid isPermaLink="false">GE00328043ES419/thank-you</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00328043PTBR/thank-you</link>
+      <guid isPermaLink="false">GE00328043PTBR/thank-you</guid>
       <pubDate>Tue, 04 Aug 2026 22:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8f8ce34f6334682cd6ac6d20b35fe4ca.png" /><br/>Episodios 1-12 Disponible - Gracias]]></description>
     </item>
@@ -27,8 +27,8 @@
 
     <item>
       <title><![CDATA[Blue Exorcist -The Blue Night Saga- - Episodio 12 - Gracias]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00328043PTBR/thank-you</link>
-      <guid isPermaLink="false">GE00328043PTBR/thank-you</guid>
+      <link>https://www.crunchyroll.com/es/watch/GE00328043ES419/thank-you</link>
+      <guid isPermaLink="false">GE00328043ES419/thank-you</guid>
       <pubDate>Tue, 04 Aug 2026 22:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8f8ce34f6334682cd6ac6d20b35fe4ca.png" /><br/>Episodios 1-12 Disponible - Gracias]]></description>
     </item>
@@ -152,27 +152,9 @@
   
 
     <item>
-      <title><![CDATA[LIAR GAME Temporada 1 (Bahasa Indonesia) - Episodio 15 - Plan secreto]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374932IDID/secret-plan</link>
-      <guid isPermaLink="false">GE00374932IDID/secret-plan</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
-    </item>
-  
-
-    <item>
       <title><![CDATA[LIAR GAME Temporada 1 (ไทย) - Episodio 15 - Plan secreto]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374932THTH/secret-plan</link>
       <guid isPermaLink="false">GE00374932THTH/secret-plan</guid>
-      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[LIAR GAME Temporada 1 (हिंदी) - Episodio 15 - Plan secreto]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00374932HIIN/secret-plan</link>
-      <guid isPermaLink="false">GE00374932HIIN/secret-plan</guid>
       <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
     </item>
@@ -188,9 +170,27 @@
   
 
     <item>
+      <title><![CDATA[LIAR GAME Temporada 1 (हिंदी) - Episodio 15 - Plan secreto]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374932HIIN/secret-plan</link>
+      <guid isPermaLink="false">GE00374932HIIN/secret-plan</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
+    </item>
+  
+
+    <item>
       <title><![CDATA[LIAR GAME Temporada 1 (తెలుగు) - Episodio 15 - Plan secreto]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00374932TEIN/secret-plan</link>
       <guid isPermaLink="false">GE00374932TEIN/secret-plan</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[LIAR GAME Temporada 1 (Bahasa Indonesia) - Episodio 15 - Plan secreto]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00374932IDID/secret-plan</link>
+      <guid isPermaLink="false">GE00374932IDID/secret-plan</guid>
       <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/78ae3256379188ca50b0bdd9fd163825.png" /><br/>Episodio 15 Disponible - Plan secreto]]></description>
     </item>
@@ -278,18 +278,18 @@
   
 
     <item>
-      <title><![CDATA[Skeleton Knight in Another World Temporada 2 (English) - Episodio 5 - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377997ENUS/terror-shadows-of-undeath-lurking-down-below</link>
-      <guid isPermaLink="false">GE00377997ENUS/terror-shadows-of-undeath-lurking-down-below</guid>
+      <title><![CDATA[Skeleton Knight in Another World Temporada 2 (Deutsch) - Episodio 5 - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377997DEDE/terror-shadows-of-undeath-lurking-down-below</link>
+      <guid isPermaLink="false">GE00377997DEDE/terror-shadows-of-undeath-lurking-down-below</guid>
       <pubDate>Mon, 03 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8a5638db7230110355972c49d66b47f7.png" /><br/>Episodio 5 Disponible - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[Skeleton Knight in Another World Temporada 2 (Deutsch) - Episodio 5 - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377997DEDE/terror-shadows-of-undeath-lurking-down-below</link>
-      <guid isPermaLink="false">GE00377997DEDE/terror-shadows-of-undeath-lurking-down-below</guid>
+      <title><![CDATA[Skeleton Knight in Another World Temporada 2 (English) - Episodio 5 - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377997ENUS/terror-shadows-of-undeath-lurking-down-below</link>
+      <guid isPermaLink="false">GE00377997ENUS/terror-shadows-of-undeath-lurking-down-below</guid>
       <pubDate>Mon, 03 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8a5638db7230110355972c49d66b47f7.png" /><br/>Episodio 5 Disponible - ¡Terror! Las sombras de los muertos vivientes que hay abajo]]></description>
     </item>
