@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:56:53 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 16:42:45 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Quit Laughing, Shijima - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100813</link>
+      <guid isPermaLink="false"><![CDATA[Quit Laughing, Shijima - One-shot]]></guid>
+      <pubDate>Sun, 09 Aug 2026 16:42:45 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100813/title_thumbnail_portrait_list/612188.jpg?hash=egoGtUf-Vig7e4cGKIcsMQ&expires=2145884400" /><br/>[One-shot] Read the Manga Quit Laughing, Shijima by Kohei Horikoshi for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Onwards! The expendable expedition! - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100808</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[NEWMikotoHako - #001]]></guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_portrait_list/610460.jpg?hash=n4qj211qs7COnVknuM6Rcw&expires=2145884400" /><br/>[#001] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Beneath the Giant Saucer - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100812</link>
-      <guid isPermaLink="false"><![CDATA[Beneath the Giant Saucer - One-shot]]></guid>
-      <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100812/title_thumbnail_portrait_list/610898.jpg?hash=Ix12tobrm02IQC3YlBC8Aw&expires=2145884400" /><br/>[One-shot] Read the Manga Beneath the Giant Saucer by MITSURU KINO for free!]]></description>
     </item>
 </channel>
 </rss>
