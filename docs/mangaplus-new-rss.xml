@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 10 Aug 2026 14:48:34 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 15:44:20 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[MikotoHako - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100800</link>
+      <guid isPermaLink="false"><![CDATA[MikotoHako - #002]]></guid>
+      <pubDate>Mon, 10 Aug 2026 15:44:20 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_main/610457.jpg?hash=W-qbCubxvA4yDnXYGojFRQ&expires=2145884400" /><br/>[#002] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Quit Laughing, Shijima - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100813</link>
       <guid isPermaLink="false"><![CDATA[Quit Laughing, Shijima - One-shot]]></guid>
-      <pubDate>Mon, 10 Aug 2026 14:48:34 GMT</pubDate>
+      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100813/title_thumbnail_portrait_list/612188.jpg?hash=egoGtUf-Vig7e4cGKIcsMQ&expires=2145884400" /><br/>[One-shot] Read the Manga Quit Laughing, Shijima by Kohei Horikoshi for free!]]></description>
     </item>
     <item>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[NEWFinding the Invisible Star - #001]]></guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#001] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWMikotoHako - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100800</link>
-      <guid isPermaLink="false"><![CDATA[NEWMikotoHako - #001]]></guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_portrait_list/610460.jpg?hash=n4qj211qs7COnVknuM6Rcw&expires=2145884400" /><br/>[#001] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
     </item>
 </channel>
 </rss>
