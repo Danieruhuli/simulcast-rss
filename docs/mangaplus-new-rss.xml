@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 14:25:27 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 16:38:12 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Mayori Academy - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100814</link>
+      <guid isPermaLink="false"><![CDATA[Mayori Academy - #001]]></guid>
+      <pubDate>Sun, 16 Aug 2026 16:38:12 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_main/612806.jpg?hash=FHV7HbDJFH7GZV5j2T1DcQ&expires=2145884400" /><br/>[#001] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Finding the Invisible Star - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100801</link>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false"><![CDATA[MikotoHako - #002]]></guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_portrait_list/610460.jpg?hash=n4qj211qs7COnVknuM6Rcw&expires=2145884400" /><br/>[#002] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Quit Laughing, Shijima - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100813</link>
-      <guid isPermaLink="false"><![CDATA[Quit Laughing, Shijima - One-shot]]></guid>
-      <pubDate>Sun, 09 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100813/title_thumbnail_portrait_list/612188.jpg?hash=egoGtUf-Vig7e4cGKIcsMQ&expires=2145884400" /><br/>[One-shot] Read the Manga Quit Laughing, Shijima by Kohei Horikoshi for free!]]></description>
     </item>
 </channel>
 </rss>
