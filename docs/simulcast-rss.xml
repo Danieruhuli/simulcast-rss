@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 07:01:51 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 07:36:57 GMT</lastBuildDate>
   
     <item>
       <title><![CDATA[Digimon Beatbreak Temporada 1 - Episodio 43 - Episode 43]]></title>
@@ -188,18 +188,18 @@
   
 
     <item>
-      <title><![CDATA[Grow Up Show Temporada 1 - Episodio 7 - No entiendes el circo]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00378294JAJP/i-dont-get-the-circus</link>
-      <guid isPermaLink="false">GE00378294JAJP/i-dont-get-the-circus</guid>
+      <title><![CDATA[Grow Up Show Temporada 1 (English) - Episodio 7 - No entiendes el circo]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00378294ENUS/i-dont-get-the-circus</link>
+      <guid isPermaLink="false">GE00378294ENUS/i-dont-get-the-circus</guid>
       <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/cfbbee65acd385ae0f7237297441fd7d.png" /><br/>Episodio 7 Disponible - No entiendes el circo]]></description>
     </item>
   
 
     <item>
-      <title><![CDATA[Grow Up Show Temporada 1 (English) - Episodio 7 - No entiendes el circo]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00378294ENUS/i-dont-get-the-circus</link>
-      <guid isPermaLink="false">GE00378294ENUS/i-dont-get-the-circus</guid>
+      <title><![CDATA[Grow Up Show Temporada 1 - Episodio 7 - No entiendes el circo]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00378294JAJP/i-dont-get-the-circus</link>
+      <guid isPermaLink="false">GE00378294JAJP/i-dont-get-the-circus</guid>
       <pubDate>Sat, 15 Aug 2026 16:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/cfbbee65acd385ae0f7237297441fd7d.png" /><br/>Episodio 7 Disponible - No entiendes el circo]]></description>
     </item>
@@ -323,18 +323,9 @@
   
 
     <item>
-      <title><![CDATA[BLACK TORCH Temporada 1 (Français) - Episodio 7 - 3 contra tres]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377915FRFR/3-on-three</link>
-      <guid isPermaLink="false">GE00377915FRFR/3-on-three</guid>
-      <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[BLACK TORCH Temporada 1 (Español (América Latina)) - Episodio 7 - 3 contra tres]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377915ES419/3-on-three</link>
-      <guid isPermaLink="false">GE00377915ES419/3-on-three</guid>
+      <title><![CDATA[BLACK TORCH Temporada 1 (Italiano) - Episodio 7 - 3 contra tres]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377915ITIT/3-on-three</link>
+      <guid isPermaLink="false">GE00377915ITIT/3-on-three</guid>
       <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
     </item>
@@ -350,9 +341,18 @@
   
 
     <item>
-      <title><![CDATA[BLACK TORCH Temporada 1 (Italiano) - Episodio 7 - 3 contra tres]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377915ITIT/3-on-three</link>
-      <guid isPermaLink="false">GE00377915ITIT/3-on-three</guid>
+      <title><![CDATA[BLACK TORCH Temporada 1 (Español (América Latina)) - Episodio 7 - 3 contra tres]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377915ES419/3-on-three</link>
+      <guid isPermaLink="false">GE00377915ES419/3-on-three</guid>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[BLACK TORCH Temporada 1 (Français) - Episodio 7 - 3 contra tres]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377915FRFR/3-on-three</link>
+      <guid isPermaLink="false">GE00377915FRFR/3-on-three</guid>
       <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
     </item>
@@ -371,6 +371,15 @@
       <title><![CDATA[BLACK TORCH Temporada 1 (العربية) - Episodio 7 - 3 contra tres]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00377915ARSA/3-on-three</link>
       <guid isPermaLink="false">GE00377915ARSA/3-on-three</guid>
+      <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
+    </item>
+  
+
+    <item>
+      <title><![CDATA[BLACK TORCH Temporada 1 - Episodio 7 - 3 contra tres]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00377915JAJP/3-on-three</link>
+      <guid isPermaLink="false">GE00377915JAJP/3-on-three</guid>
       <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
     </item>
@@ -398,15 +407,6 @@
       <title><![CDATA[BLACK TORCH Temporada 1 (English) - Episodio 7 - 3 contra tres]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00377915ENUS/3-on-three</link>
       <guid isPermaLink="false">GE00377915ENUS/3-on-three</guid>
-      <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[BLACK TORCH Temporada 1 - Episodio 7 - 3 contra tres]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00377915JAJP/3-on-three</link>
-      <guid isPermaLink="false">GE00377915JAJP/3-on-three</guid>
       <pubDate>Sat, 15 Aug 2026 13:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/b629c9bbf4f6548a59bfd430131bb27a.png" /><br/>Episodio 7 Disponible - 3 contra tres]]></description>
     </item>
@@ -449,9 +449,9 @@
   
 
     <item>
-      <title><![CDATA[RILAKKUMA Season 1 (Español (América Latina)) - Episodio 20 - Episodio 20]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375547ES419/episode-20</link>
-      <guid isPermaLink="false">GE00375547ES419/episode-20</guid>
+      <title><![CDATA[RILAKKUMA Season 1 (English) - Episodio 20 - Episodio 20]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375547ENUS/episode-20</link>
+      <guid isPermaLink="false">GE00375547ENUS/episode-20</guid>
       <pubDate>Sat, 15 Aug 2026 01:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ada77f68257951553673d842a6b25c6e.png" /><br/>Episodio 20 Disponible - Episodio 20]]></description>
     </item>
@@ -467,9 +467,9 @@
   
 
     <item>
-      <title><![CDATA[RILAKKUMA Season 1 (English) - Episodio 20 - Episodio 20]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00375547ENUS/episode-20</link>
-      <guid isPermaLink="false">GE00375547ENUS/episode-20</guid>
+      <title><![CDATA[RILAKKUMA Season 1 (Español (América Latina)) - Episodio 20 - Episodio 20]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00375547ES419/episode-20</link>
+      <guid isPermaLink="false">GE00375547ES419/episode-20</guid>
       <pubDate>Sat, 15 Aug 2026 01:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ada77f68257951553673d842a6b25c6e.png" /><br/>Episodio 20 Disponible - Episodio 20]]></description>
     </item>
