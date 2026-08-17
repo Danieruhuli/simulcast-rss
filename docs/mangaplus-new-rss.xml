@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 17 Aug 2026 14:41:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 15:05:17 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Mayori Academy - #001]]></title>
+      <title><![CDATA[MikotoHako - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100800</link>
+      <guid isPermaLink="false"><![CDATA[MikotoHako - #003]]></guid>
+      <pubDate>Mon, 17 Aug 2026 15:05:17 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_main/610457.jpg?hash=W-qbCubxvA4yDnXYGojFRQ&expires=2145884400" /><br/>[#003] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWMayori Academy - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100814</link>
-      <guid isPermaLink="false"><![CDATA[Mayori Academy - #001]]></guid>
-      <pubDate>Mon, 17 Aug 2026 14:41:04 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_main/612806.jpg?hash=FHV7HbDJFH7GZV5j2T1DcQ&expires=2145884400" /><br/>[#001] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWMayori Academy - #001]]></guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_portrait_list/612809.jpg?hash=qwpGy2jV-U0mE173BCzWpw&expires=2145884400" /><br/>[#001] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Finding the Invisible Star - #002]]></title>
@@ -20,13 +27,6 @@
       <guid isPermaLink="false"><![CDATA[Finding the Invisible Star - #002]]></guid>
       <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#002] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[MikotoHako - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100800</link>
-      <guid isPermaLink="false"><![CDATA[MikotoHako - #002]]></guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100800/title_thumbnail_portrait_list/610460.jpg?hash=n4qj211qs7COnVknuM6Rcw&expires=2145884400" /><br/>[#002] Read the Manga MikotoHako by Shintaro Tengan for free!]]></description>
     </item>
 </channel>
 </rss>
