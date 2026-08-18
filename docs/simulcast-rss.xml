@@ -5,8 +5,17 @@
   <link>https://www.crunchyroll.com/es/simulcastcalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Tue, 18 Aug 2026 17:26:49 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 18:00:27 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Red River Temporada 1 - Episodio 7 - Labios fríos]]></title>
+      <link>https://www.crunchyroll.com/es/watch/GE00379380JAJP/cold-lips</link>
+      <guid isPermaLink="false">GE00379380JAJP/cold-lips</guid>
+      <pubDate>Tue, 18 Aug 2026 17:35:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/76944ca78ca25e9b43dab7ca91c39749.png" /><br/>Episodio 7 Disponible - Labios fríos]]></description>
+    </item>
+  
+
     <item>
       <title><![CDATA[Victoria of Many Faces Temporada 1 - Episodio 7 - Hice grandes recuerdos]]></title>
       <link>https://www.crunchyroll.com/es/watch/GE00378933JAJP/i-made-great-memories</link>
@@ -625,15 +634,6 @@
       <guid isPermaLink="false">GE00364464JAJP/the-white-digimon</guid>
       <pubDate>Sun, 16 Aug 2026 03:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/47409cc6d157b481f2ec50f03ff4ac6e.png" /><br/>Episodio 43 Disponible - El Digimon blanco]]></description>
-    </item>
-  
-
-    <item>
-      <title><![CDATA[Digimon Beatbreak Temporada 1 - Episodio 43 - Episode 43]]></title>
-      <link>https://www.crunchyroll.com/es/watch/GE00364464JAJP/episode-43</link>
-      <guid isPermaLink="false">GE00364464JAJP/episode-43</guid>
-      <pubDate>Sun, 16 Aug 2026 03:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/47409cc6d157b481f2ec50f03ff4ac6e.png" /><br/>Episodio 43 Disponible - Episode 43]]></description>
     </item>
   
 </channel>
