@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 19 Aug 2026 14:36:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 15:10:38 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Monkey Hunting - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
+      <guid isPermaLink="false"><![CDATA[Monkey Hunting - #002]]></guid>
+      <pubDate>Wed, 19 Aug 2026 15:10:38 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_main/611630.jpg?hash=G7r-48nfZN1zt-1z69iUtQ&expires=2145884400" /><br/>[#002] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Finding the Invisible Star - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100801</link>
+      <guid isPermaLink="false"><![CDATA[Finding the Invisible Star - #003]]></guid>
+      <pubDate>Wed, 19 Aug 2026 15:10:38 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#003] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Lunar Maria - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100820</link>
       <guid isPermaLink="false"><![CDATA[Lunar Maria - One-shot]]></guid>
-      <pubDate>Wed, 19 Aug 2026 14:36:09 GMT</pubDate>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100820/title_thumbnail_portrait_list/612965.jpg?hash=BTELVG2BHiySxLrTt-Y0Uw&expires=2145884400" /><br/>[One-shot] Read the Manga Lunar Maria by NGC7K for free!]]></description>
     </item>
     <item>
@@ -27,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[NEWMayori Academy - #001]]></guid>
       <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_portrait_list/612809.jpg?hash=qwpGy2jV-U0mE173BCzWpw&expires=2145884400" /><br/>[#001] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Finding the Invisible Star - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100801</link>
-      <guid isPermaLink="false"><![CDATA[Finding the Invisible Star - #002]]></guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#002] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
     </item>
 </channel>
 </rss>
