@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 26 Aug 2026 13:36:50 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 16:02:41 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[KAKAKAKA - #001]]></title>
+      <title><![CDATA[Monkey Hunting - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
+      <guid isPermaLink="false"><![CDATA[Monkey Hunting - #003]]></guid>
+      <pubDate>Wed, 26 Aug 2026 16:02:41 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_portrait_list/611105.jpg?hash=ItRF521qSzxYwwgN8E0BIw&expires=2145884400" /><br/>[#003] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWKAKAKAKA - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
-      <guid isPermaLink="false"><![CDATA[KAKAKAKA - #001]]></guid>
-      <pubDate>Wed, 26 Aug 2026 13:36:49 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_main/614348.jpg?hash=VFa8XKB_ZRgOqDJsk1fpzw&expires=2145884400" /><br/>[#001] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWKAKAKAKA - #001]]></guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#001] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
     </item>
     <item>
       <title><![CDATA[MikotoHako - #004]]></title>
@@ -41,20 +48,6 @@
       <guid isPermaLink="false"><![CDATA[The Man Who Named a Star After His Wife - One-shot]]></guid>
       <pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100821/title_thumbnail_portrait_list/613763.jpg?hash=Wg0wAR3DpmggPPip9E9uhw&expires=2145884400" /><br/>[One-shot] Read the Manga The Man Who Named a Star After His Wife by MEI NARUSHIMA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Monkey Hunting - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
-      <guid isPermaLink="false"><![CDATA[Monkey Hunting - #002]]></guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_portrait_list/611105.jpg?hash=ItRF521qSzxYwwgN8E0BIw&expires=2145884400" /><br/>[#002] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Finding the Invisible Star - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100801</link>
-      <guid isPermaLink="false"><![CDATA[Finding the Invisible Star - #003]]></guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#003] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
     </item>
 </channel>
 </rss>
