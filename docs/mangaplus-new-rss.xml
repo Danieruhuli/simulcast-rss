@@ -5,8 +5,22 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 30 Aug 2026 11:20:38 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 15:26:47 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[The Ura Files - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100816</link>
+      <guid isPermaLink="false"><![CDATA[The Ura Files - #001]]></guid>
+      <pubDate>Sun, 30 Aug 2026 15:26:47 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100816/title_thumbnail_main/615161.jpg?hash=6TSpfmKtEaEGxYtLRISKvA&expires=2145884400" /><br/>[#001] Read the Manga The Ura Files by Shun Numa / Yuushin Kuroki for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Mayori Academy - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100814</link>
+      <guid isPermaLink="false"><![CDATA[Mayori Academy - #003]]></guid>
+      <pubDate>Sun, 30 Aug 2026 15:26:47 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_portrait_list/612809.jpg?hash=qwpGy2jV-U0mE173BCzWpw&expires=2145884400" /><br/>[#003] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Monkey Hunting - #003]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
@@ -34,13 +48,6 @@
       <guid isPermaLink="false"><![CDATA[Guan Zhong and Bao Shu - One-shot]]></guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100827/title_thumbnail_portrait_list/613955.jpg?hash=cBMyEo12owXWAmfaUhTeXg&expires=2145884400" /><br/>[One-shot] Read the Manga Guan Zhong and Bao Shu by SHIRAKAWA YOU for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Mayori Academy - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100814</link>
-      <guid isPermaLink="false"><![CDATA[Mayori Academy - #002]]></guid>
-      <pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_portrait_list/612809.jpg?hash=qwpGy2jV-U0mE173BCzWpw&expires=2145884400" /><br/>[#002] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
     </item>
 </channel>
 </rss>
