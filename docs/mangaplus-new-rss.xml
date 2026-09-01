@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 01 Sep 2026 06:35:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 19:40:22 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Noisering - #001]]></title>
+      <title><![CDATA[KAKAKAKA - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
+      <guid isPermaLink="false"><![CDATA[KAKAKAKA - #002]]></guid>
+      <pubDate>Tue, 01 Sep 2026 19:40:22 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#002] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWNoisering - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
-      <guid isPermaLink="false"><![CDATA[Noisering - #001]]></guid>
-      <pubDate>Tue, 01 Sep 2026 06:35:46 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_main/615167.jpg?hash=eEBqZaPttDhHnzblMdJ_Fg&expires=2145884400" /><br/>[#001] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWNoisering - #001]]></guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#001] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
     </item>
     <item>
       <title><![CDATA[NEWThe Ura Files - #001]]></title>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[Monkey Hunting - #003]]></guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_portrait_list/611105.jpg?hash=ItRF521qSzxYwwgN8E0BIw&expires=2145884400" /><br/>[#003] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWKAKAKAKA - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
-      <guid isPermaLink="false"><![CDATA[NEWKAKAKAKA - #001]]></guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#001] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
     </item>
 </channel>
 </rss>
