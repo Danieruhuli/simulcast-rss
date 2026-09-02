@@ -5,13 +5,34 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 02 Sep 2026 04:40:29 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 17:26:18 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Morino-san Just Won't Leave Me Be - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100818</link>
+      <guid isPermaLink="false"><![CDATA[Morino-san Just Won't Leave Me Be - #001]]></guid>
+      <pubDate>Wed, 02 Sep 2026 17:26:18 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100818/title_thumbnail_main/615363.jpg?hash=9HVytsad23Wen1f-5T7oxw&expires=2145884400" /><br/>[#001] Read the Manga Morino-san Just Won't Leave Me Be by Barako for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Monkey Hunting - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
+      <guid isPermaLink="false"><![CDATA[Monkey Hunting - #004]]></guid>
+      <pubDate>Wed, 02 Sep 2026 17:26:18 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_portrait_list/611105.jpg?hash=ItRF521qSzxYwwgN8E0BIw&expires=2145884400" /><br/>[#004] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Finding the Invisible Star - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100801</link>
+      <guid isPermaLink="false"><![CDATA[Finding the Invisible Star - #004]]></guid>
+      <pubDate>Wed, 02 Sep 2026 17:26:18 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100801/title_thumbnail_portrait_list/611102.jpg?hash=igxAJCUECFBfYzNB5xWECQ&expires=2145884400" /><br/>[#004] Read the Manga Finding the Invisible Star by Sango Honda for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[KAKAKAKA - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
       <guid isPermaLink="false"><![CDATA[KAKAKAKA - #002]]></guid>
-      <pubDate>Wed, 02 Sep 2026 04:40:29 GMT</pubDate>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#002] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
     </item>
     <item>
@@ -34,13 +55,6 @@
       <guid isPermaLink="false"><![CDATA[Mayori Academy - #003]]></guid>
       <pubDate>Sun, 30 Aug 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100814/title_thumbnail_portrait_list/612809.jpg?hash=qwpGy2jV-U0mE173BCzWpw&expires=2145884400" /><br/>[#003] Read the Manga Mayori Academy by Tatsu Murakoshi for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Monkey Hunting - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100802</link>
-      <guid isPermaLink="false"><![CDATA[Monkey Hunting - #003]]></guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100802/title_thumbnail_portrait_list/611105.jpg?hash=ItRF521qSzxYwwgN8E0BIw&expires=2145884400" /><br/>[#003] Read the Manga Monkey Hunting by Toshinari Masuda / Jama Riki / Koushi Hiraoka for free!]]></description>
     </item>
 </channel>
 </rss>
