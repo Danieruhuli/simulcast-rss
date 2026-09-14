@@ -5,20 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 14 Sep 2026 04:59:28 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 16:32:17 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Noisering - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
+      <guid isPermaLink="false"><![CDATA[Noisering - #003]]></guid>
+      <pubDate>Mon, 14 Sep 2026 16:32:17 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#003] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Graykeith: Translator Daemonica - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100822</link>
       <guid isPermaLink="false"><![CDATA[Graykeith: Translator Daemonica - #002]]></guid>
-      <pubDate>Mon, 14 Sep 2026 04:59:28 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100822/title_thumbnail_portrait_list/617271.jpg?hash=Or-CTL8_VGxEdiuQV2hmtQ&expires=2145884400" /><br/>[#002] Read the Manga Graykeith: Translator Daemonica by Natsuki Hokami for free!]]></description>
     </item>
     <item>
       <title><![CDATA[The Ura Files - #003]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100816</link>
       <guid isPermaLink="false"><![CDATA[The Ura Files - #003]]></guid>
-      <pubDate>Mon, 14 Sep 2026 04:59:28 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100816/title_thumbnail_portrait_list/615164.jpg?hash=2dWq3mrQ0USvCpCnWLn1lg&expires=2145884400" /><br/>[#003] Read the Manga The Ura Files by Shun Numa / Yuushin Kuroki for free!]]></description>
     </item>
     <item>
@@ -62,13 +69,6 @@
       <guid isPermaLink="false"><![CDATA[KAKAKAKA - #003]]></guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#003] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Noisering - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
-      <guid isPermaLink="false"><![CDATA[Noisering - #002]]></guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#002] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
     </item>
 </channel>
 </rss>
