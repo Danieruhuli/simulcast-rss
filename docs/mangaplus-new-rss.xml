@@ -5,14 +5,28 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 16 Sep 2026 06:06:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 15:37:24 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Evangeline Puts on Shoes - #001]]></title>
+      <title><![CDATA[Salamander - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100833</link>
+      <guid isPermaLink="false"><![CDATA[Salamander - #002]]></guid>
+      <pubDate>Wed, 16 Sep 2026 15:37:24 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100833/title_thumbnail_portrait_list/617696.jpg?hash=FIvou6aaEtzQOUEfQGKv0g&expires=2145884400" /><br/>[#002] Read the Manga Salamander by Atsushi Nakayama for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Morino-san Just Won't Leave Me Be - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100818</link>
+      <guid isPermaLink="false"><![CDATA[Morino-san Just Won't Leave Me Be - #003]]></guid>
+      <pubDate>Wed, 16 Sep 2026 15:37:24 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100818/title_thumbnail_portrait_list/615367.jpg?hash=DYJOVvnw4lvBm1pKp85ZAg&expires=2145884400" /><br/>[#003] Read the Manga Morino-san Just Won't Leave Me Be by Barako for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWEvangeline Puts on Shoes - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
-      <guid isPermaLink="false"><![CDATA[Evangeline Puts on Shoes - #001]]></guid>
-      <pubDate>Wed, 16 Sep 2026 06:06:25 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_main/619020.jpg?hash=CjIDwF92jvsQ_6G8iJdEIQ&expires=2145884400" /><br/>[#001] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWEvangeline Puts on Shoes - #001]]></guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#001] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Noisering - #003]]></title>
@@ -48,27 +62,6 @@
       <guid isPermaLink="false"><![CDATA[The Tracks We Left - One-shot]]></guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100836/title_thumbnail_portrait_list/618744.jpg?hash=K0I5IysZHuzl2emts1nttg&expires=2145884400" /><br/>[One-shot] Read the Manga The Tracks We Left by YO SONODA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWSalamander - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100833</link>
-      <guid isPermaLink="false"><![CDATA[NEWSalamander - #001]]></guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100833/title_thumbnail_portrait_list/617696.jpg?hash=FIvou6aaEtzQOUEfQGKv0g&expires=2145884400" /><br/>[#001] Read the Manga Salamander by Atsushi Nakayama for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Morino-san Just Won't Leave Me Be - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100818</link>
-      <guid isPermaLink="false"><![CDATA[Morino-san Just Won't Leave Me Be - #002]]></guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100818/title_thumbnail_portrait_list/615367.jpg?hash=DYJOVvnw4lvBm1pKp85ZAg&expires=2145884400" /><br/>[#002] Read the Manga Morino-san Just Won't Leave Me Be by Barako for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Summers Past in Bloom - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100835</link>
-      <guid isPermaLink="false"><![CDATA[Summers Past in Bloom - One-shot]]></guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100835/title_thumbnail_portrait_list/617886.jpg?hash=WLS2KblQRyd6HfZ8A6dGRA&expires=2145884400" /><br/>[One-shot] Read the Manga Summers Past in Bloom by HASAMU KAMIYAMA for free!]]></description>
     </item>
 </channel>
 </rss>
