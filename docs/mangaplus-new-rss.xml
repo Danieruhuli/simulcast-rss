@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 12:00:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 17:54:04 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Noisering - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
+      <guid isPermaLink="false"><![CDATA[Noisering - #004]]></guid>
+      <pubDate>Mon, 21 Sep 2026 17:54:04 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#004] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Ayaru's Brush with Romance - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
@@ -34,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[NEWEvangeline Puts on Shoes - #001]]></guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#001] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Noisering - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
-      <guid isPermaLink="false"><![CDATA[Noisering - #003]]></guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#003] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
     </item>
 </channel>
 </rss>
