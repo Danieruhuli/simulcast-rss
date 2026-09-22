@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 22 Sep 2026 10:06:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 18:21:55 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Evangeline Puts on Shoes - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
+      <guid isPermaLink="false"><![CDATA[Evangeline Puts on Shoes - #002]]></guid>
+      <pubDate>Tue, 22 Sep 2026 18:21:55 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#002] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[KAKAKAKA - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
+      <guid isPermaLink="false"><![CDATA[KAKAKAKA - #004]]></guid>
+      <pubDate>Tue, 22 Sep 2026 18:21:55 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#004] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Noisering - #004]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100817</link>
       <guid isPermaLink="false"><![CDATA[Noisering - #004]]></guid>
-      <pubDate>Tue, 22 Sep 2026 10:06:32 GMT</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#004] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
     </item>
     <item>
@@ -34,13 +48,6 @@
       <guid isPermaLink="false"><![CDATA[Morino-san Just Won't Leave Me Be - #003]]></guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100818/title_thumbnail_portrait_list/615367.jpg?hash=DYJOVvnw4lvBm1pKp85ZAg&expires=2145884400" /><br/>[#003] Read the Manga Morino-san Just Won't Leave Me Be by Barako for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWEvangeline Puts on Shoes - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
-      <guid isPermaLink="false"><![CDATA[NEWEvangeline Puts on Shoes - #001]]></guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#001] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
     </item>
 </channel>
 </rss>
