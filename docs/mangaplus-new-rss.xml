@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 14:42:47 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 01:53:25 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Ayaru's Brush with Romance - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
+      <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #003]]></guid>
+      <pubDate>Sun, 27 Sep 2026 01:53:25 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#003] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Evangeline Puts on Shoes - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
@@ -27,13 +34,6 @@
       <guid isPermaLink="false"><![CDATA[Noisering - #004]]></guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100817/title_thumbnail_portrait_list/615170.jpg?hash=6TKcclkzOgW07lrHQ8eMNQ&expires=2145884400" /><br/>[#004] Read the Manga Noisering by Kanya Aki / Tsubasa for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ayaru's Brush with Romance - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
-      <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #002]]></guid>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#002] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
     </item>
 </channel>
 </rss>
