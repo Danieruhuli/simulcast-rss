@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 29 Sep 2026 02:24:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 23:46:40 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Slap Shot Girls - #001]]></title>
+      <title><![CDATA[Evangeline Puts on Shoes - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
+      <guid isPermaLink="false"><![CDATA[Evangeline Puts on Shoes - #003]]></guid>
+      <pubDate>Tue, 29 Sep 2026 23:46:40 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#003] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWSlap Shot Girls - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100826</link>
-      <guid isPermaLink="false"><![CDATA[Slap Shot Girls - #001]]></guid>
-      <pubDate>Tue, 29 Sep 2026 02:24:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100826/title_thumbnail_main/620151.jpg?hash=eBgDluSMxWhEvniNQTNK-A&expires=2145884400" /><br/>[#001] Read the Manga Slap Shot Girls by Alpa for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWSlap Shot Girls - #001]]></guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100826/title_thumbnail_portrait_list/620928.jpg?hash=VBMuAZ70JK3cPX3qzSQQYg&expires=2145884400" /><br/>[#001] Read the Manga Slap Shot Girls by Alpa for free!]]></description>
     </item>
     <item>
       <title><![CDATA[The Ura Files - #004]]></title>
@@ -41,20 +48,6 @@
       <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #003]]></guid>
       <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#003] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Evangeline Puts on Shoes - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100825</link>
-      <guid isPermaLink="false"><![CDATA[Evangeline Puts on Shoes - #002]]></guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100825/title_thumbnail_portrait_list/619023.jpg?hash=dG7Q75I_L6ivy-EFZ0QGuA&expires=2145884400" /><br/>[#002] Read the Manga Evangeline Puts on Shoes by Ryosuke Asakura for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[KAKAKAKA - #004]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100815</link>
-      <guid isPermaLink="false"><![CDATA[KAKAKAKA - #004]]></guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100815/title_thumbnail_portrait_list/614351.jpg?hash=dqGjPOYw3ly4rSI6dhzQrQ&expires=2145884400" /><br/>[#004] Read the Manga KAKAKAKA by Mukade Makino for free!]]></description>
     </item>
 </channel>
 </rss>
