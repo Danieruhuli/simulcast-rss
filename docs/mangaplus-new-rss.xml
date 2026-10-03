@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 03 Oct 2026 13:26:57 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 17:37:19 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Ayaru's Brush with Romance - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
+      <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #004]]></guid>
+      <pubDate>Sat, 03 Oct 2026 17:37:19 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#004] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NEWDIGIMON EGGS - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100838</link>
@@ -69,13 +76,6 @@
       <guid isPermaLink="false"><![CDATA[Afterschool Aquarium - One-shot]]></guid>
       <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100837/title_thumbnail_portrait_list/620766.jpg?hash=x9apqhIRRqW2s1x4nZbQMQ&expires=2145884400" /><br/>[One-shot] Read the Manga Afterschool Aquarium by ASAHI YORU for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ayaru's Brush with Romance - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
-      <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #003]]></guid>
-      <pubDate>Sat, 26 Sep 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#003] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
     </item>
 </channel>
 </rss>
