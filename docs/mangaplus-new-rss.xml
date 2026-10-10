@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 11:55:49 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:59:18 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[IBARA - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100843</link>
+      <guid isPermaLink="false"><![CDATA[IBARA - One-shot]]></guid>
+      <pubDate>Sat, 10 Oct 2026 16:59:18 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100843/title_thumbnail_portrait_list/622968.jpg?hash=h-qbgpIiXZwwg3v8IREKjg&expires=2145884400" /><br/>[One-shot] Read the Manga IBARA by TAIKI MIYAZAWA for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Just Go Save the World Already - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100842</link>
       <guid isPermaLink="false"><![CDATA[Just Go Save the World Already - One-shot]]></guid>
-      <pubDate>Sat, 10 Oct 2026 11:55:49 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100842/title_thumbnail_main/622953.jpg?hash=eDsNro1IZUTo21DT_2e-5A&expires=2145884400" /><br/>[One-shot] Read the Manga Just Go Save the World Already by EITO ISO for free!]]></description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100842/title_thumbnail_portrait_list/622956.jpg?hash=_u6mPi9iNgHG8NIPFMfbPQ&expires=2145884400" /><br/>[One-shot] Read the Manga Just Go Save the World Already by EITO ISO for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Salamander - #004]]></title>
@@ -62,13 +69,6 @@
       <guid isPermaLink="false"><![CDATA[Graykeith: Translator Daemonica - #004]]></guid>
       <pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100822/title_thumbnail_portrait_list/617271.jpg?hash=Or-CTL8_VGxEdiuQV2hmtQ&expires=2145884400" /><br/>[#004] Read the Manga Graykeith: Translator Daemonica by Natsuki Hokami for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ayaru's Brush with Romance - #004]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100824</link>
-      <guid isPermaLink="false"><![CDATA[Ayaru's Brush with Romance - #004]]></guid>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100824/title_thumbnail_portrait_list/617946.jpg?hash=rMfBJI-u7UT1bcX6cRnbBg&expires=2145884400" /><br/>[#004] Read the Manga Ayaru's Brush with Romance by Hidari Yokoyama for free!]]></description>
     </item>
 </channel>
 </rss>
