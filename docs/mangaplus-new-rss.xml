@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 06:14:39 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 15:07:08 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Noro-Noro Puku-Puku - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100839</link>
+      <guid isPermaLink="false"><![CDATA[Noro-Noro Puku-Puku - #004]]></guid>
+      <pubDate>Sun, 25 Oct 2026 15:07:08 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100839/title_thumbnail_portrait_list/621759.jpg?hash=cusUiS3iAU6CqUOD9Fk25A&expires=2145884400" /><br/>[#004] Read the Manga Noro-Noro Puku-Puku by Chanta for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Yokai Matchmaking Agency - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100852</link>
+      <guid isPermaLink="false"><![CDATA[Yokai Matchmaking Agency - One-shot]]></guid>
+      <pubDate>Sun, 25 Oct 2026 15:07:08 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100852/title_thumbnail_portrait_list/625172.jpg?hash=mj66cMzO8f7d0L_Nhwxnmw&expires=2145884400" /><br/>[One-shot] Read the Manga Yokai Matchmaking Agency by IKUO HACHIYA for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Villain Belt - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100851</link>
       <guid isPermaLink="false"><![CDATA[Villain Belt - One-shot]]></guid>
-      <pubDate>Sun, 25 Oct 2026 06:14:39 GMT</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100851/title_thumbnail_portrait_list/625160.jpg?hash=Eyf8LUODyiqfzpML6FPOPQ&expires=2145884400" /><br/>[One-shot] Read the Manga Villain Belt by NAMIMOTOKI for free!]]></description>
     </item>
     <item>
@@ -48,13 +62,6 @@
       <guid isPermaLink="false"><![CDATA[Kamisama’s Requiem - One-shot]]></guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100848/title_thumbnail_portrait_list/624030.jpg?hash=5NVj5M5vmESm_Iiano_qlg&expires=2145884400" /><br/>[One-shot] Read the Manga Kamisama’s Requiem by AYUMU UEMOTO / KENTO MIZUTANI for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Noro-Noro Puku-Puku - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100839</link>
-      <guid isPermaLink="false"><![CDATA[Noro-Noro Puku-Puku - #003]]></guid>
-      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100839/title_thumbnail_portrait_list/621759.jpg?hash=cusUiS3iAU6CqUOD9Fk25A&expires=2145884400" /><br/>[#003] Read the Manga Noro-Noro Puku-Puku by Chanta for free!]]></description>
     </item>
 </channel>
 </rss>
