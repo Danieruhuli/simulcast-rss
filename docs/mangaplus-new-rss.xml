@@ -5,20 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 13:55:02 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 02:20:50 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Slap Shot Girls - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100826</link>
+      <guid isPermaLink="false"><![CDATA[Slap Shot Girls - #004]]></guid>
+      <pubDate>Tue, 27 Oct 2026 02:20:50 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100826/title_thumbnail_portrait_list/620928.jpg?hash=VBMuAZ70JK3cPX3qzSQQYg&expires=2145884400" /><br/>[#004] Read the Manga Slap Shot Girls by Alpa for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Noro-Noro Puku-Puku - #004]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100839</link>
       <guid isPermaLink="false"><![CDATA[Noro-Noro Puku-Puku - #004]]></guid>
-      <pubDate>Mon, 26 Oct 2026 13:55:02 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100839/title_thumbnail_portrait_list/621759.jpg?hash=cusUiS3iAU6CqUOD9Fk25A&expires=2145884400" /><br/>[#004] Read the Manga Noro-Noro Puku-Puku by Chanta for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Yokai Matchmaking Agency - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100852</link>
       <guid isPermaLink="false"><![CDATA[Yokai Matchmaking Agency - One-shot]]></guid>
-      <pubDate>Mon, 26 Oct 2026 13:55:02 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100852/title_thumbnail_portrait_list/625172.jpg?hash=mj66cMzO8f7d0L_Nhwxnmw&expires=2145884400" /><br/>[One-shot] Read the Manga Yokai Matchmaking Agency by IKUO HACHIYA for free!]]></description>
     </item>
     <item>
@@ -55,13 +62,6 @@
       <guid isPermaLink="false"><![CDATA[The Accordionist - One-shot]]></guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100849/title_thumbnail_portrait_list/624408.jpg?hash=VCr5AynrvchOV4tDEjKsYQ&expires=2145884400" /><br/>[One-shot] Read the Manga The Accordionist by ISAGO ABARABONE for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Kamisama’s Requiem - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100848</link>
-      <guid isPermaLink="false"><![CDATA[Kamisama’s Requiem - One-shot]]></guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100848/title_thumbnail_portrait_list/624030.jpg?hash=5NVj5M5vmESm_Iiano_qlg&expires=2145884400" /><br/>[One-shot] Read the Manga Kamisama’s Requiem by AYUMU UEMOTO / KENTO MIZUTANI for free!]]></description>
     </item>
 </channel>
 </rss>
