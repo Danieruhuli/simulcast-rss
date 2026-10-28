@@ -83,7 +83,10 @@ jobs:
         run: node snapshot.js
 
       - name: Genera RSS de Crunchyroll a partir del HTML
-        run: node generate-rss.js
+        run: |
+          # Generador anterior, sustituido el 2026-10-28 por la versión moderna
+          # node generate-rss.js
+          node generate-cr-rss.js
 
       - name: Genera RSS de MangaPlus
         run: node generate-mangaplus-rss.js

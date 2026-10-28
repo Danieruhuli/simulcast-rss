@@ -6,15 +6,22 @@ const fs = require('fs');
 puppeteer.use(StealthPlugin());
 
 const targets = [
+  /*
+  URL anterior, se retira en 2026-10-28 debido a actualizaciòn en el sitio
+  por la nueva verrsión de PHP
   {
     url: 'https://www.crunchyroll.com/es/simulcastcalendar?filter=premium',
     output: 'simulcast.html',
   },
-    {
+  */
+  {
+    url: 'https://www.crunchyroll.com/es/releasecalendar',
+    output: 'simulcast.html',
+  },
+  {
     url: 'https://mangaplus.shueisha.co.jp/updates',
     output: 'simulpub-mangaplus.html',
   },
-  
 ];
 
 (async () => {
