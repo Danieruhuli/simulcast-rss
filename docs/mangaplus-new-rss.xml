@@ -5,14 +5,21 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sat, 31 Oct 2026 10:34:42 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 16:00:37 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Meroi-kun - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100853</link>
+      <guid isPermaLink="false"><![CDATA[Meroi-kun - One-shot]]></guid>
+      <pubDate>Sat, 31 Oct 2026 16:00:37 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100853/title_thumbnail_portrait_list/626123.jpg?hash=hf59c62CzjLd0eb3IhKXGA&expires=2145884400" /><br/>[One-shot] Read the Manga Meroi-kun by POCAN YOSHINO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[The Pit of Darkness - #002]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100844</link>
       <guid isPermaLink="false"><![CDATA[The Pit of Darkness - #002]]></guid>
-      <pubDate>Sat, 31 Oct 2026 10:34:42 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100844/title_thumbnail_main/624378.jpg?hash=ojnCa4DrwG88xe74Ck1ZdA&expires=2145884400" /><br/>[#002] Read the Manga The Pit of Darkness by Sora Karin / Kentaro Harada for free!]]></description>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100844/title_thumbnail_portrait_list/624381.jpg?hash=fCQj_ZZFZD7cG7VfUk78RQ&expires=2145884400" /><br/>[#002] Read the Manga The Pit of Darkness by Sora Karin / Kentaro Harada for free!]]></description>
     </item>
     <item>
       <title><![CDATA[NEWEvershifting Girlfriends - #001]]></title>
@@ -48,13 +55,6 @@
       <guid isPermaLink="false"><![CDATA[Yokai Matchmaking Agency - One-shot]]></guid>
       <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100852/title_thumbnail_portrait_list/625172.jpg?hash=mj66cMzO8f7d0L_Nhwxnmw&expires=2145884400" /><br/>[One-shot] Read the Manga Yokai Matchmaking Agency by IKUO HACHIYA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Villain Belt - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100851</link>
-      <guid isPermaLink="false"><![CDATA[Villain Belt - One-shot]]></guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100851/title_thumbnail_portrait_list/625160.jpg?hash=Eyf8LUODyiqfzpML6FPOPQ&expires=2145884400" /><br/>[One-shot] Read the Manga Villain Belt by NAMIMOTOKI for free!]]></description>
     </item>
 </channel>
 </rss>
