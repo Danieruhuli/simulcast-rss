@@ -5,14 +5,14 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 10:07:42 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 20:06:28 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Bartlet Fairy Basslet - #001]]></title>
+      <title><![CDATA[NEWBartlet Fairy Basslet - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100856</link>
-      <guid isPermaLink="false"><![CDATA[Bartlet Fairy Basslet - #001]]></guid>
-      <pubDate>Mon, 02 Nov 2026 10:07:41 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100856/title_thumbnail_main/626276.jpg?hash=ejkxs9YfF7TwqOsOuSvhwA&expires=2145884400" /><br/>[#001] Read the Manga Bartlet Fairy Basslet by Norihiro Yagi for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWBartlet Fairy Basslet - #001]]></guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100856/title_thumbnail_portrait_list/626279.jpg?hash=KpNEqWj0GVZx1hOIDRcOHA&expires=2145884400" /><br/>[#001] Read the Manga Bartlet Fairy Basslet by Norihiro Yagi for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Meroi-kun - One-shot]]></title>
@@ -41,13 +41,6 @@
       <guid isPermaLink="false"><![CDATA[NEWNIGHTMARE OF OVEJA NEGRA - #001]]></guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#001] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Slap Shot Girls - #004]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100826</link>
-      <guid isPermaLink="false"><![CDATA[Slap Shot Girls - #004]]></guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100826/title_thumbnail_portrait_list/620928.jpg?hash=VBMuAZ70JK3cPX3qzSQQYg&expires=2145884400" /><br/>[#004] Read the Manga Slap Shot Girls by Alpa for free!]]></description>
     </item>
 </channel>
 </rss>
