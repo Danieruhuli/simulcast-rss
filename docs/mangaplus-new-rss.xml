@@ -5,8 +5,22 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 09:59:28 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 17:34:12 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[DIGIMON EGGS - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100838</link>
+      <guid isPermaLink="false"><![CDATA[DIGIMON EGGS - #002]]></guid>
+      <pubDate>Tue, 03 Nov 2026 17:34:12 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100838/title_thumbnail_portrait_list/620934.jpg?hash=p8bmI-C6r7Bcm_DG5coQYg&expires=2145884400" /><br/>[#002] Read the Manga DIGIMON EGGS by Ayumu Minato / Akiyoshi Hongo for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NIGHTMARE OF OVEJA NEGRA - #002]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
+      <guid isPermaLink="false"><![CDATA[NIGHTMARE OF OVEJA NEGRA - #002]]></guid>
+      <pubDate>Tue, 03 Nov 2026 17:34:12 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#002] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NEWBartlet Fairy Basslet - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100856</link>
@@ -34,13 +48,6 @@
       <guid isPermaLink="false"><![CDATA[NEWEvershifting Girlfriends - #001]]></guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100846/title_thumbnail_portrait_list/625763.jpg?hash=6q-TKXuT8IcHAjR0y2RIgg&expires=2145884400" /><br/>[#001] Read the Manga Evershifting Girlfriends by Omameda for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NEWNIGHTMARE OF OVEJA NEGRA - #001]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
-      <guid isPermaLink="false"><![CDATA[NEWNIGHTMARE OF OVEJA NEGRA - #001]]></guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#001] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
     </item>
 </channel>
 </rss>
