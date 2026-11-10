@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 09:21:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:05:55 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[NIGHTMARE OF OVEJA NEGRA - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
+      <guid isPermaLink="false"><![CDATA[NIGHTMARE OF OVEJA NEGRA - #003]]></guid>
+      <pubDate>Tue, 10 Nov 2026 17:05:55 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#003] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Bizarre! The Macabre Family - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100864</link>
       <guid isPermaLink="false"><![CDATA[Bizarre! The Macabre Family - One-shot]]></guid>
-      <pubDate>Tue, 10 Nov 2026 09:21:17 GMT</pubDate>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100864/title_thumbnail_portrait_list/627626.jpg?hash=I-mcfqdyZfLvG3ZTulqcRw&expires=2145884400" /><br/>[One-shot] Read the Manga Bizarre! The Macabre Family by KOU TOSAYA for free!]]></description>
     </item>
     <item>
@@ -41,20 +48,6 @@
       <guid isPermaLink="false"><![CDATA[Ghost Taxi: Another Day, Another Departure - One-shot]]></guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100860/title_thumbnail_portrait_list/626765.jpg?hash=2pHlLv-lsLBTgsn4z_pE2A&expires=2145884400" /><br/>[One-shot] Read the Manga Ghost Taxi: Another Day, Another Departure by RITSUKI KITAMURA / MOTSU for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[DIGIMON EGGS - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100838</link>
-      <guid isPermaLink="false"><![CDATA[DIGIMON EGGS - #002]]></guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100838/title_thumbnail_portrait_list/620934.jpg?hash=p8bmI-C6r7Bcm_DG5coQYg&expires=2145884400" /><br/>[#002] Read the Manga DIGIMON EGGS by Ayumu Minato / Akiyoshi Hongo for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[NIGHTMARE OF OVEJA NEGRA - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
-      <guid isPermaLink="false"><![CDATA[NIGHTMARE OF OVEJA NEGRA - #002]]></guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#002] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
     </item>
 </channel>
 </rss>
