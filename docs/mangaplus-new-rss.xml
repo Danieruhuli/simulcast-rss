@@ -5,13 +5,20 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Wed, 11 Nov 2026 09:33:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 17:30:15 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Request X from a Certain Entity - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100865</link>
+      <guid isPermaLink="false"><![CDATA[Request X from a Certain Entity - One-shot]]></guid>
+      <pubDate>Wed, 11 Nov 2026 17:30:15 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100865/title_thumbnail_portrait_list/627950.jpg?hash=iCTDURm7AUYGRq9r8jngMQ&expires=2145884400" /><br/>[One-shot] Read the Manga Request X from a Certain Entity by AGE NASUO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NIGHTMARE OF OVEJA NEGRA - #003]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
       <guid isPermaLink="false"><![CDATA[NIGHTMARE OF OVEJA NEGRA - #003]]></guid>
-      <pubDate>Wed, 11 Nov 2026 09:33:06 GMT</pubDate>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_portrait_list/625397.jpg?hash=Gbq5X5habeLIYI-ZM-dVHg&expires=2145884400" /><br/>[#003] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
     </item>
     <item>
@@ -41,13 +48,6 @@
       <guid isPermaLink="false"><![CDATA[Evershifting Girlfriends - #002]]></guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100846/title_thumbnail_portrait_list/625763.jpg?hash=6q-TKXuT8IcHAjR0y2RIgg&expires=2145884400" /><br/>[#002] Read the Manga Evershifting Girlfriends by Omameda for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Ghost Taxi: Another Day, Another Departure - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100860</link>
-      <guid isPermaLink="false"><![CDATA[Ghost Taxi: Another Day, Another Departure - One-shot]]></guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100860/title_thumbnail_portrait_list/626765.jpg?hash=2pHlLv-lsLBTgsn4z_pE2A&expires=2145884400" /><br/>[One-shot] Read the Manga Ghost Taxi: Another Day, Another Departure by RITSUKI KITAMURA / MOTSU for free!]]></description>
     </item>
 </channel>
 </rss>
