@@ -5,7 +5,14 @@
   <link>https://www.crunchyroll.com/es/releasecalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 00:13:08 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 06:37:13 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[Star Detective Precure! - S1: 41]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00369491JAJP/episode-41</link>
+    <guid isPermaLink="false">GE00369491JAJP/episode-41</guid>
+    <pubDate>Sun, 15 Nov 2026 01:30:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/27052d48ef73c49b4f82cbac8d5cce27.png" /><br/>Ver Star Detective Precure!, Temporada 1, episodio 41, Idiomas de audio: JA]]></description>
+  </item>
   <item>
     <title><![CDATA[HORROR COLLECTOR - S1: 4]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00389749ENUS/the-quiet-ripples</link>
@@ -136,6 +143,13 @@
     <title><![CDATA[The Vermilion Mask - S1: 3]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00384365FRFR/the-mask-of-smoke</link>
     <guid isPermaLink="false">GE00384365FRFR/the-mask-of-smoke</guid>
+    <pubDate>Sat, 14 Nov 2026 10:30:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/b4013b1ea1c589682e4d4c4bc51a0720.png" /><br/>Ver The Vermilion Mask, Temporada 1, episodio 3, Idiomas de audio: DE, FR, Estreno 5 de 23]]></description>
+  </item>
+  <item>
+    <title><![CDATA[The Vermilion Mask - S1: 3]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00384365DEDE/the-mask-of-smoke</link>
+    <guid isPermaLink="false">GE00384365DEDE/the-mask-of-smoke</guid>
     <pubDate>Sat, 14 Nov 2026 10:30:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/b4013b1ea1c589682e4d4c4bc51a0720.png" /><br/>Ver The Vermilion Mask, Temporada 1, episodio 3, Idiomas de audio: DE, FR, Estreno 5 de 23]]></description>
   </item>
@@ -481,20 +495,6 @@
     <guid isPermaLink="false">GE00389728JAJP/episode-5</guid>
     <pubDate>Tue, 10 Nov 2026 18:15:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/e24eda5e79693f5fc8581f99664ce15a.png" /><br/>Ver DARK MACHINE THE ANIMATION, Temporada 1, episodio 5, Idiomas de audio: JA, Estreno 13 de 14]]></description>
-  </item>
-  <item>
-    <title><![CDATA[Red River - S1: 19]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00379392JAJP/dream-of-that-wonderful-day</link>
-    <guid isPermaLink="false">GE00379392JAJP/dream-of-that-wonderful-day</guid>
-    <pubDate>Tue, 10 Nov 2026 17:35:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/bb0b53550affaea838e0f334e404af3c.png" /><br/>Ver Red River, Temporada 1, episodio 19, Idiomas de audio: JA, Estreno 12 de 14]]></description>
-  </item>
-  <item>
-    <title><![CDATA[One Piece - S31: 1159]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00350809ENUS/destroy-the-miniature-garden---escape-block-kingdom</link>
-    <guid isPermaLink="false">GE00350809ENUS/destroy-the-miniature-garden---escape-block-kingdom</guid>
-    <pubDate>Tue, 10 Nov 2026 17:00:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/2a3d0036abfd262546d2b825f4d95533.png" /><br/>Ver One Piece, Temporada 31, episodio 1159, Idiomas de audio: EN, Estreno 11 de 14]]></description>
   </item>
 </channel>
 </rss>
