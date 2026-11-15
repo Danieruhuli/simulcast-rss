@@ -5,14 +5,28 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 14:23:00 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 19:57:27 GMT</lastBuildDate>
   
     <item>
-      <title><![CDATA[Phantasma Lily - #001]]></title>
+      <title><![CDATA[Jan Is in Danger! - #001]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100858</link>
+      <guid isPermaLink="false"><![CDATA[Jan Is in Danger! - #001]]></guid>
+      <pubDate>Sun, 15 Nov 2026 19:57:27 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100858/title_thumbnail_main/628637.jpg?hash=XZm4avqMlX_SdPtpwomyTQ&expires=2145884400" /><br/>[#001] Read the Manga Jan Is in Danger!  by Ryo Nakama for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[Bartlet Fairy Basslet - #003]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100856</link>
+      <guid isPermaLink="false"><![CDATA[Bartlet Fairy Basslet - #003]]></guid>
+      <pubDate>Sun, 15 Nov 2026 19:57:27 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100856/title_thumbnail_portrait_list/626279.jpg?hash=KpNEqWj0GVZx1hOIDRcOHA&expires=2145884400" /><br/>[#003] Read the Manga Bartlet Fairy Basslet by Norihiro Yagi for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[NEWPhantasma Lily - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100857</link>
-      <guid isPermaLink="false"><![CDATA[Phantasma Lily - #001]]></guid>
-      <pubDate>Sun, 15 Nov 2026 14:23:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100857/title_thumbnail_main/628619.jpg?hash=Ncwo1h49CeXbkHUlcf1Ymg&expires=2145884400" /><br/>[#001] Read the Manga Phantasma Lily by Nogomi Okayama / Kudari Sawakita for free!]]></description>
+      <guid isPermaLink="false"><![CDATA[NEWPhantasma Lily - #001]]></guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100857/title_thumbnail_portrait_list/628622.jpg?hash=ZnznerwMyqaQN08xAwQT-g&expires=2145884400" /><br/>[#001] Read the Manga Phantasma Lily by Nogomi Okayama / Kudari Sawakita for free!]]></description>
     </item>
     <item>
       <title><![CDATA[Going to Die - One-shot]]></title>
@@ -48,13 +62,6 @@
       <guid isPermaLink="false"><![CDATA[Bizarre! The Macabre Family - One-shot]]></guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100864/title_thumbnail_portrait_list/627626.jpg?hash=I-mcfqdyZfLvG3ZTulqcRw&expires=2145884400" /><br/>[One-shot] Read the Manga Bizarre! The Macabre Family by KOU TOSAYA for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Bartlet Fairy Basslet - #002]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100856</link>
-      <guid isPermaLink="false"><![CDATA[Bartlet Fairy Basslet - #002]]></guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100856/title_thumbnail_portrait_list/626279.jpg?hash=KpNEqWj0GVZx1hOIDRcOHA&expires=2145884400" /><br/>[#002] Read the Manga Bartlet Fairy Basslet by Norihiro Yagi for free!]]></description>
     </item>
 </channel>
 </rss>
