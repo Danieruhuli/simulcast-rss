@@ -1,5 +1,5 @@
 const fs = require('fs');
-const { JSDOM } = require('jsdom');
+const { JSDOM, VirtualConsole } = require('jsdom');
 const xml2js = require('xml2js');
 
 const htmlPath = 'simulcast.html';
@@ -10,7 +10,12 @@ if (!fs.existsSync(htmlPath) || fs.statSync(htmlPath).size === 0) {
   process.exit(0);
 }
 
-const document = new JSDOM(fs.readFileSync(htmlPath, 'utf8')).window.document;
+const virtualConsole = new VirtualConsole();
+virtualConsole.on('jsdomError', error => {
+  if (error.type !== 'css parsing') console.error(error);
+});
+
+const document = new JSDOM(fs.readFileSync(htmlPath, 'utf8'), { virtualConsole }).window.document;
 const calendar = document.querySelector('.erc-release-calendar-content');
 
 if (!calendar) {
@@ -174,6 +179,9 @@ columns.forEach((column, columnIndex) => {
     const srOnlyLabel = [...cell.querySelectorAll('[data-t="sr-only"]')]
       .map(element => element.textContent.trim().replace(/\s+/g, ' ').replace(/\u00a0/g, ' '))
       .find(text => /^Ver\b/i.test(text));
+    const audioLanguages = srOnlyLabel
+      ?.match(/\bIdiomas de audio:\s*(.*?)(?=,\s*Estreno\s+\d+\s+de\s+\d+\b|$)/i)?.[1]
+      .trim();
     let description = srOnlyLabel || episodeInfo || title;
     description = description
       .replace(/,\s*Hora de estreno:\s*[\d:]+(?:\s*[ap]\.?\s*m\.?)?\s*,/i, ',')
@@ -192,7 +200,7 @@ columns.forEach((column, columnIndex) => {
     const guid = link.replace('https://www.crunchyroll.com/es/watch/', '').replace(/^\/es\/watch\//, '').replace(/^http:\/\/[^/]+/, '');
 
     newItems.push({
-      title: episodeSuffix ? `${title} - ${episodeSuffix}` : title,
+      title: `${episodeSuffix ? `${title} - ${episodeSuffix}` : title}${audioLanguages ? ` (${audioLanguages})` : ''}`,
       link,
       guid,
       pubDate: publishDate.toUTCString(),
