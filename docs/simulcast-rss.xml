@@ -5,7 +5,14 @@
   <link>https://www.crunchyroll.com/es/releasecalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 21:14:30 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:54:36 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[T00393120 - S1: 2 (JA)]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00393124JAJP/episode-2</link>
+    <guid isPermaLink="false">GE00393124JAJP/episode-2</guid>
+    <pubDate>Tue, 17 Nov 2026 04:00:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/47409cc6d157b481f2ec50f03ff4ac6e.png" /><br/>Ver T00393120, Temporada 1, episodio 2, Idiomas de audio: JA]]></description>
+  </item>
   <item>
     <title><![CDATA[PSYREN - S1: 4 (ES, DE, FR, PT, TH)]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00384255ES419/recall</link>
@@ -488,13 +495,6 @@
     <guid isPermaLink="false">GE00384353ES419/the-boy-who-is-the-worlds-strongest-sorcerer-keeps-winning-with-his-team</guid>
     <pubDate>Thu, 12 Nov 2026 18:05:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/14c3e19129ae829082b01e49511ab5e2.png" /><br/>Ver The Iceblade Sorcerer Shall Rule the World, Temporada 2, episodio 3, Idiomas de audio: ES, DE, PT, Estreno 10 de 10]]></description>
-  </item>
-  <item>
-    <title><![CDATA[The Iceblade Sorcerer Shall Rule the World - S2: 4]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00384354ENUS/the-boy-who-is-the-worlds-strongest-sorcerer-and-his-friends-converse-with-their-fists</link>
-    <guid isPermaLink="false">GE00384354ENUS/the-boy-who-is-the-worlds-strongest-sorcerer-and-his-friends-converse-with-their-fists</guid>
-    <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/bb862c5e8df177cc6d35d2921c3a8a0f.png" /><br/>Ver The Iceblade Sorcerer Shall Rule the World, Temporada 2, episodio 4, Idiomas de audio: EN, Estreno 9 de 10]]></description>
   </item>
 </channel>
 </rss>
