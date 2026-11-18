@@ -5,7 +5,7 @@
   <link>https://www.crunchyroll.com/es/releasecalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 21:32:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 03:11:08 GMT</lastBuildDate>
   <item>
     <title><![CDATA[Red River - S1: 20 (JA)]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00379393JAJP/divisions</link>
@@ -108,6 +108,13 @@
     <title><![CDATA[PSYREN - S1: 6 (JA)]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00384257JAJP/episode-6</link>
     <guid isPermaLink="false">GE00384257JAJP/episode-6</guid>
+    <pubDate>Mon, 16 Nov 2026 14:30:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/2d09fef33a13b2f3e0190180223fb43b.png" /><br/>Ver PSYREN, Temporada 1, episodio 6, Idiomas de audio: JA, Estreno 8 de 9]]></description>
+  </item>
+  <item>
+    <title><![CDATA[PSYREN - S1: 6 (JA)]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00384257JAJP/memory</link>
+    <guid isPermaLink="false">GE00384257JAJP/memory</guid>
     <pubDate>Mon, 16 Nov 2026 14:30:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/2d09fef33a13b2f3e0190180223fb43b.png" /><br/>Ver PSYREN, Temporada 1, episodio 6, Idiomas de audio: JA, Estreno 8 de 9]]></description>
   </item>
@@ -488,13 +495,6 @@
     <guid isPermaLink="false">GE00343603IDID/the-night-of-the-assassination</guid>
     <pubDate>Fri, 13 Nov 2026 17:00:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/aa0cea7f328075b24fd7f2eea776e663.png" /><br/>Ver The Elusive Samurai, Temporada 2, episodio 22, Idiomas de audio: ID, Estreno 10 de 13]]></description>
-  </item>
-  <item>
-    <title><![CDATA[The Elusive Samurai - S2: 23]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00343604THTH/my-buddha-part-two</link>
-    <guid isPermaLink="false">GE00343604THTH/my-buddha-part-two</guid>
-    <pubDate>Fri, 13 Nov 2026 17:00:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/284128130b2c5f2484825edc17af3866.png" /><br/>Ver The Elusive Samurai, Temporada 2, episodio 23, Idiomas de audio: TH, Estreno 11 de 13]]></description>
   </item>
 </channel>
 </rss>
