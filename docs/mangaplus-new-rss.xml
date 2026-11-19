@@ -5,13 +5,27 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 09:33:44 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:38:25 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[Evershifting Girlfriends - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100846</link>
+      <guid isPermaLink="false"><![CDATA[Evershifting Girlfriends - #004]]></guid>
+      <pubDate>Thu, 19 Nov 2026 18:38:25 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100846/title_thumbnail_portrait_list/625763.avif?hash=XyNyxArwpPeWO5V2Fc7g2g&expires=2145884400" /><br/>[#004] Read the Manga Evershifting Girlfriends by Omameda for free!]]></description>
+    </item>
+    <item>
+      <title><![CDATA[The Ouroboros of Craving - One-shot]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100873</link>
+      <guid isPermaLink="false"><![CDATA[The Ouroboros of Craving - One-shot]]></guid>
+      <pubDate>Thu, 19 Nov 2026 18:38:25 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100873/title_thumbnail_portrait_list/629210.avif?hash=SgjtDP-Zgwh3BvXAr3h1jg&expires=2145884400" /><br/>[One-shot] Read the Manga The Ouroboros of Craving by Necrosishead for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[Extreme Center Part - One-shot]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100872</link>
       <guid isPermaLink="false"><![CDATA[Extreme Center Part - One-shot]]></guid>
-      <pubDate>Thu, 19 Nov 2026 09:33:44 GMT</pubDate>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100872/title_thumbnail_portrait_list/628904.avif?hash=5_H_-ublXxsEuSKLpshVqw&expires=2145884400" /><br/>[One-shot] Read the Manga Extreme Center Part by SHORI TAGAMI for free!]]></description>
     </item>
     <item>
@@ -55,13 +69,6 @@
       <guid isPermaLink="false"><![CDATA[Going to Die - One-shot]]></guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100866/title_thumbnail_portrait_list/628601.avif?hash=Hn_ydYmoXaWNYNdzRds5dg&expires=2145884400" /><br/>[One-shot] Read the Manga Going to Die by AO NAGAI for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[Evershifting Girlfriends - #003]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100846</link>
-      <guid isPermaLink="false"><![CDATA[Evershifting Girlfriends - #003]]></guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100846/title_thumbnail_portrait_list/625763.avif?hash=XyNyxArwpPeWO5V2Fc7g2g&expires=2145884400" /><br/>[#003] Read the Manga Evershifting Girlfriends by Omameda for free!]]></description>
     </item>
 </channel>
 </rss>
