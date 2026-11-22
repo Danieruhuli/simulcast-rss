@@ -5,7 +5,14 @@
   <link>https://www.crunchyroll.com/es/releasecalendar</link>
   <description>Lista RSS de estrenos en Crunchyroll</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 19:23:28 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 05:06:07 GMT</lastBuildDate>
+  <item>
+    <title><![CDATA[Star Detective Precure! - S1: 42 (JA)]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00369493JAJP/episode-42</link>
+    <guid isPermaLink="false">GE00369493JAJP/episode-42</guid>
+    <pubDate>Sun, 22 Nov 2026 01:30:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/1ac54e12a1282545ee4733488df196ee.png" /><br/>Ver Star Detective Precure!, Temporada 1, episodio 42, Idiomas de audio: JA]]></description>
+  </item>
   <item>
     <title><![CDATA[The Iceblade Sorcerer Shall Rule the World - S2: 4 (HI)]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00384354HIIN/the-boy-who-is-the-worlds-strongest-sorcerer-and-his-friends-converse-with-their-fists</link>
@@ -59,6 +66,13 @@
     <title><![CDATA[Los diarios de la boticaria - S3: 53 (HI, TA, TE)]]></title>
     <link>https://www.crunchyroll.com/es/watch/GE00384331TAIN/the-white-snake-immortal</link>
     <guid isPermaLink="false">GE00384331TAIN/the-white-snake-immortal</guid>
+    <pubDate>Sat, 21 Nov 2026 16:40:00 GMT</pubDate>
+    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/b36a744d651da67c01f590090c96dcdd.png" /><br/>Ver Los diarios de la boticaria, Temporada 3, episodio 53, Idiomas de audio: HI, TA, TE, Estreno 21 de 28]]></description>
+  </item>
+  <item>
+    <title><![CDATA[Los diarios de la boticaria - S3: 53 (HI, TA, TE)]]></title>
+    <link>https://www.crunchyroll.com/es/watch/GE00384331HIIN/the-white-snake-immortal</link>
+    <guid isPermaLink="false">GE00384331HIIN/the-white-snake-immortal</guid>
     <pubDate>Sat, 21 Nov 2026 16:40:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/b36a744d651da67c01f590090c96dcdd.png" /><br/>Ver Los diarios de la boticaria, Temporada 3, episodio 53, Idiomas de audio: HI, TA, TE, Estreno 21 de 28]]></description>
   </item>
@@ -481,20 +495,6 @@
     <guid isPermaLink="false">GE00319307ES419/rapier</guid>
     <pubDate>Wed, 18 Nov 2026 16:00:00 GMT</pubDate>
     <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/a203b4c4f8ec20f70f7e56fcff69bd7f.png" /><br/>Ver A Returner's Magic Should Be Special, Temporada 1, episodio 5, Idiomas de audio: ES, PT, Estreno 18 de 23]]></description>
-  </item>
-  <item>
-    <title><![CDATA[A Returner's Magic Should Be Special - S1: 6-12 (ES, PT)]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00319310ES419/final-round</link>
-    <guid isPermaLink="false">GE00319310ES419/final-round</guid>
-    <pubDate>Wed, 18 Nov 2026 16:00:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/203a0ce9bad0cf964cdec5ad7f383024.png" /><br/>Ver A Returner's Magic Should Be Special, Temporada 1, episodios del 6 al 12, Idiomas de audio: ES, PT, Estreno 19 de 23]]></description>
-  </item>
-  <item>
-    <title><![CDATA[Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé - S1: 4 (HI, TE, TA)]]></title>
-    <link>https://www.crunchyroll.com/es/watch/GE00366153TEIN/the-overprotective-cunning-fianc</link>
-    <guid isPermaLink="false">GE00366153TEIN/the-overprotective-cunning-fianc</guid>
-    <pubDate>Wed, 18 Nov 2026 15:30:00 GMT</pubDate>
-    <description><![CDATA[<img src="https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain%2Cformat=auto%2Cquality=70%2Cwidth=320%2Cheight=180/catalog/crunchyroll/a0ce0ad6b6017e57564bc549b3f497ef.png" /><br/>Ver Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé, Temporada 1, episodio 4, Idiomas de audio: HI, TE, TA, Estreno 13 de 23]]></description>
   </item>
 </channel>
 </rss>
