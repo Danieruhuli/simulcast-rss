@@ -5,8 +5,15 @@
   <link>https://mangaplus.shueisha.co.jp/</link>
   <description>RSS filtrado solo para nuevos estrenos (capítulos #001-#004 o One-shot)</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 05:34:59 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 16:16:20 GMT</lastBuildDate>
   
+    <item>
+      <title><![CDATA[NIGHTMARE OF OVEJA NEGRA - #004]]></title>
+      <link>https://mangaplus.shueisha.co.jp/titles/100845</link>
+      <guid isPermaLink="false"><![CDATA[NIGHTMARE OF OVEJA NEGRA - #004]]></guid>
+      <pubDate>Tue, 24 Nov 2026 16:16:20 GMT</pubDate>
+      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100845/title_thumbnail_main/625394.avif?hash=cwVpOFfUr7BLZbNLXNtfFA&expires=2145884400" /><br/>[#004] Read the Manga NIGHTMARE OF OVEJA NEGRA by SHOTA KONO for free!]]></description>
+    </item>
     <item>
       <title><![CDATA[NEWHizuki of the Ginza Patrol - #001]]></title>
       <link>https://mangaplus.shueisha.co.jp/titles/100867</link>
@@ -62,13 +69,6 @@
       <guid isPermaLink="false"><![CDATA[Extreme Center Part - One-shot]]></guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100872/title_thumbnail_portrait_list/628904.avif?hash=5_H_-ublXxsEuSKLpshVqw&expires=2145884400" /><br/>[One-shot] Read the Manga Extreme Center Part by SHORI TAGAMI for free!]]></description>
-    </item>
-    <item>
-      <title><![CDATA[No Man’s Satellite - One-shot]]></title>
-      <link>https://mangaplus.shueisha.co.jp/titles/100871</link>
-      <guid isPermaLink="false"><![CDATA[No Man’s Satellite - One-shot]]></guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <description><![CDATA[<img src="https://jumpg-assets.tokyo-cdn.com/secure/title/100871/title_thumbnail_portrait_list/628853.avif?hash=CmZQAKikFbGfLMRbjVZVYQ&expires=2145884400" /><br/>[One-shot] Read the Manga No Man’s Satellite by NAOKI KOMAMURA for free!]]></description>
     </item>
 </channel>
 </rss>
